@@ -1,0 +1,965 @@
+Year;Date;Time;Round;Stadium;City;Country;HomeTeam;HomeGoals;AwayGoals;AwayTeam;Winner;HowEnd
+1930;1930-07-13; 15:00 ;Group 1;Pocitos;Montevideo ;Uruguay;France;4;1;Mexico;France;Regular game time
+1930;1930-07-13; 15:00 ;Group 4;Parque Central;Montevideo ;Uruguay;USA;3;0;Belgium;USA;Regular game time
+1930;1930-07-14; 12:45 ;Group 2;Parque Central;Montevideo ;Uruguay;Yugoslavia;2;1;Brazil;Yugoslavia;Regular game time
+1930;1930-07-14; 14:50 ;Group 3;Pocitos;Montevideo ;Uruguay;Romania;3;1;Peru;Romania;Regular game time
+1930;1930-07-15; 16:00 ;Group 1;Parque Central;Montevideo ;Uruguay;Argentina;1;0;France;Argentina;Regular game time
+1930;1930-07-16; 14:45 ;Group 1;Parque Central;Montevideo ;Uruguay;Chile;3;0;Mexico;Chile;Regular game time
+1930;1930-07-17; 12:45 ;Group 2;Parque Central;Montevideo ;Uruguay;Yugoslavia;4;0;Bolivia;Yugoslavia;Regular game time
+1930;1930-07-17; 14:45 ;Group 4;Parque Central;Montevideo ;Uruguay;USA;3;0;Paraguay;USA;Regular game time
+1930;1930-07-18; 14:30 ;Group 3;Estadio Centenario;Montevideo ;Uruguay;Uruguay;1;0;Peru;Uruguay;Regular game time
+1930;1930-07-19; 12:50 ;Group 1;Estadio Centenario;Montevideo ;Uruguay;Chile;1;0;France;Chile;Regular game time
+1930;1930-07-19; 15:00 ;Group 1;Estadio Centenario;Montevideo ;Uruguay;Argentina;6;3;Mexico;Argentina;Regular game time
+1930;1930-07-20; 13:00 ;Group 2;Estadio Centenario;Montevideo ;Uruguay;Brazil;4;0;Bolivia;Brazil;Regular game time
+1930;1930-07-20; 15:00 ;Group 4;Estadio Centenario;Montevideo ;Uruguay;Paraguay;1;0;Belgium;Paraguay;Regular game time
+1930;1930-07-21; 14:50 ;Group 3;Estadio Centenario;Montevideo ;Uruguay;Uruguay;4;0;Romania;Uruguay;Regular game time
+1930;1930-07-22; 14:45 ;Group 1;Estadio Centenario;Montevideo ;Uruguay;Argentina;3;1;Chile;Argentina;Regular game time
+1930;1930-07-26; 14:45 ;Semi-finals;Estadio Centenario;Montevideo ;Uruguay;Argentina;6;1;USA;Argentina;Regular game time
+1930;1930-07-27; 14:45 ;Semi-finals;Estadio Centenario;Montevideo ;Uruguay;Uruguay;6;1;Yugoslavia;Uruguay;Regular game time
+1930;1930-07-30; 14:15 ;Final;Estadio Centenario;Montevideo ;Uruguay;Uruguay;4;2;Argentina;Uruguay;Regular game time
+1934;1934-05-27; 16:30 ;Preliminary round;Stadio Benito Mussolini;Turin ;Italy;Austria;3;2;France;Austria;Extra Time
+1934;1934-05-27; 16:30 ;Preliminary round;Giorgio Ascarelli;Naples ;Italy;Hungary;4;2;Egypt;Hungary;Regular game time
+1934;1934-05-27; 16:30 ;Preliminary round;San Siro;Milan ;Italy;Switzerland;3;2;Netherlands;Switzerland;Regular game time
+1934;1934-05-27; 16:30 ;Preliminary round;Littorale;Bologna ;Italy;Sweden;3;2;Argentina;Sweden;Regular game time
+1934;1934-05-27; 16:30 ;Preliminary round;Giovanni Berta;Florence ;Italy;Germany;5;2;Belgium;Germany;Regular game time
+1934;1934-05-27; 16:30 ;Preliminary round;Luigi Ferraris;Genoa ;Italy;Spain;3;1;Brazil;Spain;Regular game time
+1934;1934-05-27; 16:30 ;Preliminary round;Nazionale PNF;Rome ;Italy;Italy;7;1;USA;Italy;Regular game time
+1934;1934-05-27; 16:30 ;Preliminary round;Littorio;Trieste ;Italy;Czechoslovakia;2;1;Romania;Czechoslovakia;Regular game time
+1934;1934-05-31; 16:30 ;Quarter-finals;Stadio Benito Mussolini;Turin ;Italy;Czechoslovakia;3;2;Switzerland;Czechoslovakia;Regular game time
+1934;1934-05-31; 16:30 ;Quarter-finals;San Siro;Milan ;Italy;Germany;2;1;Sweden;Germany;Regular game time
+1934;1934-05-31; 16:30 ;Quarter-finals;Giovanni Berta;Florence ;Italy;Italy;1;1;Spain;Draw;Regular game time
+1934;1934-05-31; 16:30 ;Quarter-finals;Littorale;Bologna ;Italy;Austria;2;1;Hungary;Austria;Regular game time
+1934;1934-06-01; 16:30 ;Quarter-finals;Giovanni Berta;Florence ;Italy;Italy;1;0;Spain;Italy;Regular game time
+1934;1934-06-03; 16:30 ;Semi-finals;San Siro;Milan ;Italy;Italy;1;0;Austria;Italy;Regular game time
+1934;1934-06-03; 16:30 ;Semi-finals;Nazionale PNF;Rome ;Italy;Czechoslovakia;3;1;Germany;Czechoslovakia;Regular game time
+1934;1934-06-07; 18:00 ;Match for third place;Giorgio Ascarelli;Naples ;Italy;Germany;3;2;Austria;Germany;Regular game time
+1934;1934-06-10; 17:30 ;Final;Nazionale PNF;Rome ;Italy;Italy;2;1;Czechoslovakia;Italy;Extra Time
+1938;1938-06-04; 17:00 ;First round;Parc des Princes;Paris ;France;Switzerland;1;1;Germany;Draw;Regular game time
+1938;1938-06-05; 17:00 ;First round;Velodrome Municipale;Reims ;France;Hungary;6;0;Dutch East Indies;Hungary;Regular game time
+1938;1938-06-05; 17:00 ;First round;Stade Olympique;Colombes ;France;France;3;1;Belgium;France;Regular game time
+1938;1938-06-05; 17:00 ;First round;Stade Municipal;Toulouse ;France;Cuba;3;3;Romania;Draw;Regular game time
+1938;1938-06-05; 17:00 ;First round;Stade Velodrome;Marseilles ;France;Italy;2;1;Norway;Italy;Extra Time
+1938;1938-06-05; 17:30 ;First round;Stade de la Meinau;Strasbourg ;France;Brazil;6;5;Poland;Brazil;Extra Time
+1938;1938-06-05; 18:30 ;First round;Cavee Verte;Le Havre ;France;Czechoslovakia;3;0;Netherlands;Czechoslovakia;Extra Time
+1938;1938-06-09; 18:00 ;First round;Stade Municipal;Toulouse ;France;Cuba;2;1;Romania;Cuba;Regular game time
+1938;1938-06-09; 18:00 ;First round;Parc des Princes;Paris ;France;Switzerland;4;2;Germany;Switzerland;Regular game time
+1938;1938-06-12; 17:00 ;Quarter-finals;Stade du Parc Lescure;Bordeaux ;France;Brazil;1;1;Czechoslovakia;Draw;Regular game time
+1938;1938-06-12; 17:00 ;Quarter-finals;Victor Boucquey;Lille ;France;Hungary;2;0;Switzerland;Hungary;Regular game time
+1938;1938-06-12; 17:00 ;Quarter-finals;Fort Carree;Antibes ;France;Sweden;8;0;Cuba;Sweden;Regular game time
+1938;1938-06-12; 17:00 ;Quarter-finals;Stade Olympique;Colombes ;France;Italy;3;1;France;Italy;Regular game time
+1938;1938-06-14; 18:00 ;Quarter-finals;Stade du Parc Lescure;Bordeaux ;France;Brazil;2;1;Czechoslovakia;Brazil;Regular game time
+1938;1938-06-16; 18:00 ;Semi-finals;Parc des Princes;Paris ;France;Hungary;5;1;Sweden;Hungary;Regular game time
+1938;1938-06-16; 18:00 ;Semi-finals;Stade Velodrome;Marseilles ;France;Italy;2;1;Brazil;Italy;Regular game time
+1938;1938-06-19; 17:00 ;Match for third place;Stade du Parc Lescure;Bordeaux ;France;Brazil;4;2;Sweden;Brazil;Regular game time
+1938;1938-06-19; 17:00 ;Final;Stade Olympique;Colombes ;France;Italy;4;2;Hungary;Italy;Regular game time
+1950;1950-06-24; 15:00 ;Group 1;Estadio Jornalista Mario Filho;Rio De Janeiro ;Brazil;Brazil;4;0;Mexico;Brazil;Regular game time
+1950;1950-06-25; 15:00 ;Group 2;Estadio Jornalista Mario Filho;Rio De Janeiro ;Brazil;England;2;0;Chile;England;Regular game time
+1950;1950-06-25; 15:00 ;Group 2;Durival de Brito;Curitiba ;Brazil;Spain;3;1;USA;Spain;Regular game time
+1950;1950-06-25; 15:00 ;Group 3;Pacaembu;Sao Paulo ;Brazil;Sweden;3;2;Italy;Sweden;Regular game time
+1950;1950-06-25; 15:00 ;Group 1;Independencia;Belo Horizonte ;Brazil;Yugoslavia;3;0;Switzerland;Yugoslavia;Regular game time
+1950;1950-06-28; 15:00 ;Group 1;Pacaembu;Sao Paulo ;Brazil;Brazil;2;2;Switzerland;Draw;Regular game time
+1950;1950-06-28; 15:00 ;Group 1;Eucaliptos;Porto Alegre ;Brazil;Yugoslavia;4;1;Mexico;Yugoslavia;Regular game time
+1950;1950-06-29; 15:00 ;Group 2;Estadio Jornalista Mario Filho;Rio De Janeiro ;Brazil;Spain;2;0;Chile;Spain;Regular game time
+1950;1950-06-29; 15:30 ;Group 3;Durival de Brito;Curitiba ;Brazil;Sweden;2;2;Paraguay;Draw;Regular game time
+1950;1950-06-29; 15:00 ;Group 2;Independencia;Belo Horizonte ;Brazil;USA;1;0;England;USA;Regular game time
+1950;1950-07-01; 15:00 ;Group 1;Estadio Jornalista Mario Filho;Rio De Janeiro ;Brazil;Brazil;2;0;Yugoslavia;Brazil;Regular game time
+1950;1950-07-02; 15:00 ;Group 2;Estadio Jornalista Mario Filho;Rio De Janeiro ;Brazil;Spain;1;0;England;Spain;Regular game time
+1950;1950-07-02; 15:00 ;Group 3;Pacaembu;Sao Paulo ;Brazil;Italy;2;0;Paraguay;Italy;Regular game time
+1950;1950-07-02; 15:00 ;Group 4;Independencia;Belo Horizonte ;Brazil;Uruguay;8;0;Bolivia;Uruguay;Regular game time
+1950;1950-07-02; 15:40 ;Group 1;Eucaliptos;Porto Alegre ;Brazil;Switzerland;2;1;Mexico;Switzerland;Regular game time
+1950;1950-07-02; 15:00 ;Group 2;Ilha do Retiro;Recife ;Brazil;Chile;5;2;USA;Chile;Regular game time
+1950;1950-07-09; 15:00 ;Group 6;Pacaembu;Sao Paulo ;Brazil;Uruguay;2;2;Spain;Draw;Regular game time
+1950;1950-07-09; 15:00 ;Group 6;Estadio Jornalista Mario Filho;Rio De Janeiro ;Brazil;Brazil;7;1;Sweden;Brazil;Regular game time
+1950;1950-07-13; 15:00 ;Group 6;Estadio Jornalista Mario Filho;Rio De Janeiro ;Brazil;Brazil;6;1;Spain;Brazil;Regular game time
+1950;1950-07-13; 15:00 ;Group 6;Pacaembu;Sao Paulo ;Brazil;Uruguay;3;2;Sweden;Uruguay;Regular game time
+1950;1950-07-16; 15:00 ;Group 6;Pacaembu;Sao Paulo ;Brazil;Sweden;3;1;Spain;Sweden;Regular game time
+1950;1950-07-16; 15:00 ;Group 6;Estadio Jornalista Mario Filho;Rio De Janeiro ;Brazil;Uruguay;2;1;Brazil;Uruguay;Regular game time
+1954;1954-06-16; 18:00 ;Group 3;Wankdorf Stadium;Berne ;Switzerland;Uruguay;2;0;Czechoslovakia;Uruguay;Regular game time
+1954;1954-06-16; 18:00 ;Group 3;Hardturm;Zurich ;Switzerland;Austria;1;0;Scotland;Austria;Regular game time
+1954;1954-06-16; 18:00 ;Group 1;Charmilles;Geneva ;Switzerland;Brazil;5;0;Mexico;Brazil;Regular game time
+1954;1954-06-16; 18:00 ;Group 1;La Pontaise;Lausanne ;Switzerland;Yugoslavia;1;0;France;Yugoslavia;Regular game time
+1954;1954-06-17; 18:00 ;Group 2;Wankdorf Stadium;Berne ;Switzerland;Germany FR;4;1;Turkey;Germany FR;Regular game time
+1954;1954-06-17; 18:00 ;Group 2;Hardturm;Zurich ;Switzerland;Hungary;9;0;Korea Republic;Hungary;Regular game time
+1954;1954-06-17; 18:10 ;Group 4;St. Jakob;Basel ;Switzerland;England;4;4;Belgium;Draw;Regular game time
+1954;1954-06-17; 17:50 ;Group 4;La Pontaise;Lausanne ;Switzerland;Switzerland;2;1;Italy;Switzerland;Regular game time
+1954;1954-06-19; 16:50 ;Group 3;St. Jakob;Basel ;Switzerland;Uruguay;7;0;Scotland;Uruguay;Regular game time
+1954;1954-06-19; 17:00 ;Group 3;Hardturm;Zurich ;Switzerland;Austria;5;0;Czechoslovakia;Austria;Regular game time
+1954;1954-06-19; 17:10 ;Group 1;Charmilles;Geneva ;Switzerland;France;3;2;Mexico;France;Regular game time
+1954;1954-06-19; 17:00 ;Group 1;La Pontaise;Lausanne ;Switzerland;Brazil;1;1;Yugoslavia;Draw;Regular game time
+1954;1954-06-20; 16:50 ;Group 2;St. Jakob;Basel ;Switzerland;Hungary;8;3;Germany FR;Hungary;Regular game time
+1954;1954-06-20; 17:00 ;Group 2;Charmilles;Geneva ;Switzerland;Turkey;7;0;Korea Republic;Turkey;Regular game time
+1954;1954-06-20; 17:10 ;Group 4;Wankdorf Stadium;Berne ;Switzerland;England;2;0;Switzerland;England;Regular game time
+1954;1954-06-20; 17:00 ;Group 4;Comunale di Cornaredo;Lugano ;Switzerland;Italy;4;1;Belgium;Italy;Regular game time
+1954;1954-06-23; 18:00 ;Group 2;Hardturm;Zurich ;Switzerland;Germany FR;7;2;Turkey;Germany FR;Regular game time
+1954;1954-06-23; 18:00 ;Group 4;St. Jakob;Basel ;Switzerland;Switzerland;4;1;Italy;Switzerland;Regular game time
+1954;1954-06-26; 17:00 ;Quarter-finals;St. Jakob;Basel ;Switzerland;Uruguay;4;2;England;Uruguay;Regular game time
+1954;1954-06-26; 17:00 ;Quarter-finals;La Pontaise;Lausanne ;Switzerland;Austria;7;5;Switzerland;Austria;Regular game time
+1954;1954-06-27; 17:00 ;Quarter-finals;Charmilles;Geneva ;Switzerland;Germany FR;2;0;Yugoslavia;Germany FR;Regular game time
+1954;1954-06-27; 17:00 ;Quarter-finals;Wankdorf Stadium;Berne ;Switzerland;Hungary;4;2;Brazil;Hungary;Regular game time
+1954;1954-06-30; 18:00 ;Semi-finals;St. Jakob;Basel ;Switzerland;Germany FR;6;1;Austria;Germany FR;Regular game time
+1954;1954-06-30; 18:00 ;Semi-finals;La Pontaise;Lausanne ;Switzerland;Hungary;4;2;Uruguay;Hungary;Extra Time
+1954;1954-07-03; 17:00 ;Match for third place;Hardturm;Zurich ;Switzerland;Austria;3;1;Uruguay;Austria;Regular game time
+1954;1954-07-04; 17:00 ;Final;Wankdorf Stadium;Berne ;Switzerland;Germany FR;3;2;Hungary;Germany FR;Regular game time
+1958;1958-06-08; 14:00 ;Group 3;Rasunda Stadium;Solna ;Sweden;Sweden;3;0;Mexico;Sweden;Regular game time
+1958;1958-06-08; 19:00 ;Group 4;Nya Ullevi;Gothenburg ;Sweden;Soviet Union;2;2;England;Draw;Regular game time
+1958;1958-06-08; 19:00 ;Group 1;Malmo Stadion;Malmo;Sweden;Argentina;1;3;Germany FR;Germany FR;Regular game time
+1958;1958-06-08; 19:00 ;Group 3;Jarnvallen;Sandviken ;Sweden;Hungary;1;1;Wales;Draw;Regular game time
+1958;1958-06-08; 19:00 ;Group 2;Idrottsparken;Norrkoping;Sweden;France;7;3;Paraguay;France;Regular game time
+1958;1958-06-08; 19:00 ;Group 2;Arosvallen;Vasteras ;Sweden;Yugoslavia;1;1;Scotland;Draw;Regular game time
+1958;1958-06-08; 19:00 ;Group 4;Rimnersvallen;Udevalla ;Sweden;Brazil;3;0;Austria;Brazil;Regular game time
+1958;1958-06-08; 19:00 ;Group 1;Orjans Vall;Halmstad ;Sweden;Northern Ireland;1;0;Czechoslovakia;Northern Ireland;Regular game time
+1958;1958-06-11; 19:00 ;Group 4;Nya Ullevi;Gothenburg ;Sweden;Brazil;0;0;England;Draw;Regular game time
+1958;1958-06-11; 19:00 ;Group 3;Rasunda Stadium;Solna ;Sweden;Mexico;1;1;Wales;Draw;Regular game time
+1958;1958-06-11; 19:00 ;Group 2;Idrottsparken;Norrkoping;Sweden;Paraguay;3;2;Scotland;Paraguay;Regular game time
+1958;1958-06-11; 19:00 ;Group 2;Arosvallen;Vasteras ;Sweden;Yugoslavia;3;2;France;Yugoslavia;Regular game time
+1958;1958-06-11; 19:00 ;Group 4;Ryavallen;Boras ;Sweden;Soviet Union;2;0;Austria;Soviet Union;Regular game time
+1958;1958-06-11; 19:00 ;Group 1;Olympia Stadium;Helsingborg ;Sweden;Germany FR;2;2;Czechoslovakia;Draw;Regular game time
+1958;1958-06-11; 19:00 ;Group 1;Orjans Vall;Halmstad ;Sweden;Argentina;3;1;Northern Ireland;Argentina;Regular game time
+1958;1958-06-12; 19:00 ;Group 3;Rasunda Stadium;Solna ;Sweden;Sweden;2;1;Hungary;Sweden;Regular game time
+1958;1958-06-15; 14:00 ;Group 3;Rasunda Stadium;Solna ;Sweden;Sweden;0;0;Wales;Draw;Regular game time
+1958;1958-06-15; 19:00 ;Group 4;Nya Ullevi;Gothenburg ;Sweden;Brazil;2;0;Soviet Union;Brazil;Regular game time
+1958;1958-06-15; 19:00 ;Group 1;Malmo Stadion;Malmo;Sweden;Germany FR;2;2;Northern Ireland;Draw;Regular game time
+1958;1958-06-15; 19:00 ;Group 3;Jarnvallen;Sandviken ;Sweden;Hungary;4;0;Mexico;Hungary;Regular game time
+1958;1958-06-15; 19:00 ;Group 2;Tunavallen;Eskilstuna ;Sweden;Paraguay;3;3;Yugoslavia;Draw;Regular game time
+1958;1958-06-15; 19:00 ;Group 2;Eyravallen;Orebro ;Sweden;France;2;1;Scotland;France;Regular game time
+1958;1958-06-15; 19:00 ;Group 4;Ryavallen;Boras ;Sweden;England;2;2;Austria;Draw;Regular game time
+1958;1958-06-15; 19:00 ;Group 1;Olympia Stadium;Helsingborg ;Sweden;Czechoslovakia;6;1;Argentina;Czechoslovakia;Regular game time
+1958;1958-06-17; 19:00 ;Group 4;Nya Ullevi;Gothenburg ;Sweden;Soviet Union;1;0;England;Soviet Union;Regular game time
+1958;1958-06-17; 19:00 ;Group 1;Malmo Stadion;Malmo;Sweden;Northern Ireland;2;1;Czechoslovakia;Northern Ireland;Extra Time
+1958;1958-06-17; 19:00 ;Group 3;Rasunda Stadium;Solna ;Sweden;Wales;2;1;Hungary;Wales;Regular game time
+1958;1958-06-19; 19:00 ;Quarter-finals;Nya Ullevi;Gothenburg ;Sweden;Brazil;1;0;Wales;Brazil;Regular game time
+1958;1958-06-19; 19:00 ;Quarter-finals;Malmo Stadion;Malmo;Sweden;Germany FR;1;0;Yugoslavia;Germany FR;Regular game time
+1958;1958-06-19; 19:00 ;Quarter-finals;Rasunda Stadium;Solna ;Sweden;Sweden;2;0;Soviet Union;Sweden;Regular game time
+1958;1958-06-19; 19:00 ;Quarter-finals;Idrottsparken;Norrkoping;Sweden;France;4;0;Northern Ireland;France;Regular game time
+1958;1958-06-24; 19:00 ;Semi-finals;Nya Ullevi;Gothenburg ;Sweden;Sweden;3;1;Germany FR;Sweden;Regular game time
+1958;1958-06-24; 19:00 ;Semi-finals;Rasunda Stadium;Solna ;Sweden;Brazil;5;2;France;Brazil;Regular game time
+1958;1958-06-28; 17:00 ;Match for third place;Nya Ullevi;Gothenburg ;Sweden;France;6;3;Germany FR;France;Regular game time
+1958;1958-06-29; 15:00 ;Final;Rasunda Stadium;Solna ;Sweden;Brazil;5;2;Sweden;Brazil;Regular game time
+1962;1962-05-30; 15:00 ;Group 1;Carlos Dittborn;Arica ;Chile;Uruguay;2;1;Colombia;Uruguay;Regular game time
+1962;1962-05-30; 15:00 ;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Brazil;2;0;Mexico;Brazil;Regular game time
+1962;1962-05-30; 15:00 ;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;Argentina;1;0;Bulgaria;Argentina;Regular game time
+1962;1962-05-30; 15:00 ;Group 2;Nacional;Santiago De Chile ;Chile;Chile;3;1;Switzerland;Chile;Regular game time
+1962;1962-05-31; 15:00 ;Group 1;Carlos Dittborn;Arica ;Chile;Soviet Union;2;0;Yugoslavia;Soviet Union;Regular game time
+1962;1962-05-31; 15:00 ;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Czechoslovakia;1;0;Spain;Czechoslovakia;Regular game time
+1962;1962-05-31; 15:00 ;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;Hungary;2;1;England;Hungary;Regular game time
+1962;1962-05-31; 15:00 ;Group 2;Nacional;Santiago De Chile ;Chile;Germany FR;0;0;Italy;Draw;Regular game time
+1962;1962-06-02; 15:00 ;Group 1;Carlos Dittborn;Arica ;Chile;Yugoslavia;3;1;Uruguay;Yugoslavia;Regular game time
+1962;1962-06-02; 15:00 ;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Brazil;0;0;Czechoslovakia;Draw;Regular game time
+1962;1962-06-02; 15:00 ;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;England;3;1;Argentina;England;Regular game time
+1962;1962-06-02; 15:00 ;Group 2;Nacional;Santiago De Chile ;Chile;Chile;2;0;Italy;Chile;Regular game time
+1962;1962-06-03; 15:00 ;Group 1;Carlos Dittborn;Arica ;Chile;Soviet Union;4;4;Colombia;Draw;Regular game time
+1962;1962-06-03; 15:00 ;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Spain;1;0;Mexico;Spain;Regular game time
+1962;1962-06-03; 15:00 ;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;Hungary;6;1;Bulgaria;Hungary;Regular game time
+1962;1962-06-03; 15:00 ;Group 2;Nacional;Santiago De Chile ;Chile;Germany FR;2;1;Switzerland;Germany FR;Regular game time
+1962;1962-06-06; 15:00 ;Group 1;Carlos Dittborn;Arica ;Chile;Soviet Union;2;1;Uruguay;Soviet Union;Regular game time
+1962;1962-06-06; 15:00 ;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Brazil;2;1;Spain;Brazil;Regular game time
+1962;1962-06-06; 15:00 ;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;Hungary;0;0;Argentina;Draw;Regular game time
+1962;1962-06-06; 15:00 ;Group 2;Nacional;Santiago De Chile ;Chile;Germany FR;2;0;Chile;Germany FR;Regular game time
+1962;1962-06-07; 15:00 ;Group 1;Carlos Dittborn;Arica ;Chile;Yugoslavia;5;0;Colombia;Yugoslavia;Regular game time
+1962;1962-06-07; 15:00 ;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Mexico;3;1;Czechoslovakia;Mexico;Regular game time
+1962;1962-06-07; 15:00 ;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;England;0;0;Bulgaria;Draw;Regular game time
+1962;1962-06-07; 15:00 ;Group 2;Nacional;Santiago De Chile ;Chile;Italy;3;0;Switzerland;Italy;Regular game time
+1962;1962-06-10; 14:30 ;Quarter-finals;Carlos Dittborn;Arica ;Chile;Chile;2;1;Soviet Union;Chile;Regular game time
+1962;1962-06-10; 14:30 ;Quarter-finals;Estadio Sausalito;Vina Del Mar ;Chile;Brazil;3;1;England;Brazil;Regular game time
+1962;1962-06-10; 14:30 ;Quarter-finals;Estadio El Teniente-Codelco;Rancagua ;Chile;Czechoslovakia;1;0;Hungary;Czechoslovakia;Regular game time
+1962;1962-06-10; 14:30 ;Quarter-finals;Nacional;Santiago De Chile ;Chile;Yugoslavia;1;0;Germany FR;Yugoslavia;Regular game time
+1962;1962-06-13; 14:30 ;Semi-finals;Estadio Sausalito;Vina Del Mar ;Chile;Czechoslovakia;3;1;Yugoslavia;Czechoslovakia;Regular game time
+1962;1962-06-13; 14:30 ;Semi-finals;Nacional;Santiago De Chile ;Chile;Brazil;4;2;Chile;Brazil;Regular game time
+1962;1962-06-16; 14:30 ;Match for third place;Nacional;Santiago De Chile ;Chile;Chile;1;0;Yugoslavia;Chile;Regular game time
+1962;1962-06-17; 14:30 ;Final;Nacional;Santiago De Chile ;Chile;Brazil;3;1;Czechoslovakia;Brazil;Regular game time
+1966;1966-07-11; 19:30 ;Group 1;Wembley Stadium;London ;England;England;0;0;Uruguay;Draw;Regular game time
+1966;1966-07-12; 19:30 ;Group 2;Hillsborough;Sheffield ;England;Germany FR;5;0;Switzerland;Germany FR;Regular game time
+1966;1966-07-12; 19:30 ;Group 3;Goodison Park;Liverpool ;England;Brazil;2;0;Bulgaria;Brazil;Regular game time
+1966;1966-07-12; 19:30 ;Group 4;Ayresome Park;Middlesbrough ;England;Soviet Union;3;0;Korea DPR;Soviet Union;Regular game time
+1966;1966-07-13; 19:30 ;Group 1;Wembley Stadium;London ;England;France;1;1;Mexico;Draw;Regular game time
+1966;1966-07-13; 19:30 ;Group 3;Old Trafford Stadium;Manchester ;England;Portugal;3;1;Hungary;Portugal;Regular game time
+1966;1966-07-13; 19:30 ;Group 2;Villa Park;Birmingham ;England;Argentina;2;1;Spain;Argentina;Regular game time
+1966;1966-07-13; 19:30 ;Group 4;Roker Park Ground;Sunderland ;England;Italy;2;0;Chile;Italy;Regular game time
+1966;1966-07-15; 19:30 ;Group 1;White City;London ;England;Uruguay;2;1;France;Uruguay;Regular game time
+1966;1966-07-15; 19:30 ;Group 2;Hillsborough;Sheffield ;England;Spain;2;1;Switzerland;Spain;Regular game time
+1966;1966-07-15; 19:30 ;Group 3;Goodison Park;Liverpool ;England;Hungary;3;1;Brazil;Hungary;Regular game time
+1966;1966-07-15; 19:30 ;Group 4;Ayresome Park;Middlesbrough ;England;Korea DPR;1;1;Chile;Draw;Regular game time
+1966;1966-07-16; 15:00 ;Group 3;Old Trafford Stadium;Manchester ;England;Portugal;3;0;Bulgaria;Portugal;Regular game time
+1966;1966-07-16; 15:00 ;Group 2;Villa Park;Birmingham ;England;Germany FR;0;0;Argentina;Draw;Regular game time
+1966;1966-07-16; 15:00 ;Group 4;Roker Park Ground;Sunderland ;England;Soviet Union;1;0;Italy;Soviet Union;Regular game time
+1966;1966-07-16; 19:30 ;Group 1;Wembley Stadium;London ;England;England;2;0;Mexico;England;Regular game time
+1966;1966-07-19; 16:30 ;Group 1;Wembley Stadium;London ;England;Uruguay;0;0;Mexico;Draw;Regular game time
+1966;1966-07-19; 19:30 ;Group 2;Hillsborough;Sheffield ;England;Argentina;2;0;Switzerland;Argentina;Regular game time
+1966;1966-07-19; 19:30 ;Group 3;Goodison Park;Liverpool ;England;Portugal;3;1;Brazil;Portugal;Regular game time
+1966;1966-07-19; 19:30 ;Group 4;Ayresome Park;Middlesbrough ;England;Korea DPR;1;0;Italy;Korea DPR;Regular game time
+1966;1966-07-20; 19:30 ;Group 1;Wembley Stadium;London ;England;England;2;0;France;England;Regular game time
+1966;1966-07-20; 19:30 ;Group 3;Old Trafford Stadium;Manchester ;England;Hungary;3;1;Bulgaria;Hungary;Regular game time
+1966;1966-07-20; 19:30 ;Group 2;Villa Park;Birmingham ;England;Germany FR;2;1;Spain;Germany FR;Regular game time
+1966;1966-07-20; 19:30 ;Group 4;Roker Park Ground;Sunderland ;England;Soviet Union;2;1;Chile;Soviet Union;Regular game time
+1966;1966-07-23; 15:00 ;Quarter-finals;Wembley Stadium;London ;England;England;1;0;Argentina;England;Regular game time
+1966;1966-07-23; 15:00 ;Quarter-finals;Hillsborough;Sheffield ;England;Germany FR;4;0;Uruguay;Germany FR;Regular game time
+1966;1966-07-23; 15:00 ;Quarter-finals;Roker Park Ground;Sunderland ;England;Soviet Union;2;1;Hungary;Soviet Union;Regular game time
+1966;1966-07-23; 15:00 ;Quarter-finals;Goodison Park;Liverpool ;England;Portugal;5;3;Korea DPR;Portugal;Regular game time
+1966;1966-07-25; 19:30 ;Semi-finals;Goodison Park;Liverpool ;England;Germany FR;2;1;Soviet Union;Germany FR;Regular game time
+1966;1966-07-26; 19:30 ;Semi-finals;Wembley Stadium;London ;England;England;2;1;Portugal;England;Regular game time
+1966;1966-07-28; 19:30 ;Match for third place;Wembley Stadium;London ;England;Portugal;2;1;Soviet Union;Portugal;Regular game time
+1966;1966-07-30; 15:00 ;Final;Wembley Stadium;London ;England;England;4;2;Germany FR;England;Extra Time
+1970;1970-05-31; 12:00 ;Group 1;Estadio Azteca;Mexico City ;Mexico;Mexico;0;0;Soviet Union;Draw;Regular game time
+1970;1970-06-02; 16:00 ;Group 2;Cuauhtemoc;Puebla ;Mexico;Uruguay;2;0;Israel;Uruguay;Regular game time
+1970;1970-06-02; 16:00 ;Group 4;Nou Camp - Estadio Leon;Leon ;Mexico;Peru;3;2;Bulgaria;Peru;Regular game time
+1970;1970-06-02; 16:00 ;Group 3;Jalisco;Guadalajara ;Mexico;England;1;0;Romania;England;Regular game time
+1970;1970-06-03; 16:00 ;Group 2;Luis Dosal;Toluca ;Mexico;Italy;1;0;Sweden;Italy;Regular game time
+1970;1970-06-03; 16:00 ;Group 4;Nou Camp - Estadio Leon;Leon ;Mexico;Germany FR;2;1;Morocco;Germany FR;Regular game time
+1970;1970-06-03; 16:00 ;Group 3;Jalisco;Guadalajara ;Mexico;Brazil;4;1;Czechoslovakia;Brazil;Regular game time
+1970;1970-06-03; 16:00 ;Group 1;Estadio Azteca;Mexico City ;Mexico;Belgium;3;0;El Salvador;Belgium;Regular game time
+1970;1970-06-06; 16:00 ;Group 2;Cuauhtemoc;Puebla ;Mexico;Uruguay;0;0;Italy;Draw;Regular game time
+1970;1970-06-06; 16:00 ;Group 4;Nou Camp - Estadio Leon;Leon ;Mexico;Peru;3;0;Morocco;Peru;Regular game time
+1970;1970-06-06; 16:00 ;Group 3;Jalisco;Guadalajara ;Mexico;Romania;2;1;Czechoslovakia;Romania;Regular game time
+1970;1970-06-06; 16:00 ;Group 1;Estadio Azteca;Mexico City ;Mexico;Soviet Union;4;1;Belgium;Soviet Union;Regular game time
+1970;1970-06-07; 12:00 ;Group 2;Luis Dosal;Toluca ;Mexico;Sweden;1;1;Israel;Draw;Regular game time
+1970;1970-06-07; 12:00 ;Group 4;Nou Camp - Estadio Leon;Leon ;Mexico;Germany FR;5;2;Bulgaria;Germany FR;Regular game time
+1970;1970-06-07; 12:00 ;Group 3;Jalisco;Guadalajara ;Mexico;Brazil;1;0;England;Brazil;Regular game time
+1970;1970-06-07; 12:00 ;Group 1;Estadio Azteca;Mexico City ;Mexico;Mexico;4;0;El Salvador;Mexico;Regular game time
+1970;1970-06-10; 16:00 ;Group 2;Cuauhtemoc;Puebla ;Mexico;Sweden;1;0;Uruguay;Sweden;Regular game time
+1970;1970-06-10; 16:00 ;Group 4;Nou Camp - Estadio Leon;Leon ;Mexico;Germany FR;3;1;Peru;Germany FR;Regular game time
+1970;1970-06-10; 16:00 ;Group 3;Jalisco;Guadalajara ;Mexico;Brazil;3;2;Romania;Brazil;Regular game time
+1970;1970-06-10; 16:00 ;Group 1;Estadio Azteca;Mexico City ;Mexico;Soviet Union;2;0;El Salvador;Soviet Union;Regular game time
+1970;1970-06-11; 16:00 ;Group 2;Luis Dosal;Toluca ;Mexico;Italy;0;0;Israel;Draw;Regular game time
+1970;1970-06-11; 16:00 ;Group 4;Nou Camp - Estadio Leon;Leon ;Mexico;Bulgaria;1;1;Morocco;Draw;Regular game time
+1970;1970-06-11; 16:00 ;Group 3;Jalisco;Guadalajara ;Mexico;England;1;0;Czechoslovakia;England;Regular game time
+1970;1970-06-11; 16:00 ;Group 1;Estadio Azteca;Mexico City ;Mexico;Mexico;1;0;Belgium;Mexico;Regular game time
+1970;1970-06-14; 12:00 ;Quarter-finals;Luis Dosal;Toluca ;Mexico;Italy;4;1;Mexico;Italy;Regular game time
+1970;1970-06-14; 12:00 ;Quarter-finals;Nou Camp - Estadio Leon;Leon ;Mexico;Germany FR;3;2;England;Germany FR;Extra Time
+1970;1970-06-14; 12:00 ;Quarter-finals;Jalisco;Guadalajara ;Mexico;Brazil;4;2;Peru;Brazil;Regular game time
+1970;1970-06-14; 12:00 ;Quarter-finals;Estadio Azteca;Mexico City ;Mexico;Uruguay;1;0;Soviet Union;Uruguay;Extra Time
+1970;1970-06-17; 16:00 ;Semi-finals;Jalisco;Guadalajara ;Mexico;Brazil;3;1;Uruguay;Brazil;Regular game time
+1970;1970-06-17; 16:00 ;Semi-finals;Estadio Azteca;Mexico City ;Mexico;Italy;4;3;Germany FR;Italy;Extra Time
+1970;1970-06-20; 16:00 ;Match for third place;Estadio Azteca;Mexico City ;Mexico;Germany FR;1;0;Uruguay;Germany FR;Regular game time
+1970;1970-06-21; 12:00 ;Final;Estadio Azteca;Mexico City ;Mexico;Brazil;4;1;Italy;Brazil;Regular game time
+1974;1974-06-13; 17:00 ;Group 2;Waldstadion;Frankfurt/Main ;Germany;Brazil;0;0;Yugoslavia;Draw;Regular game time
+1974;1974-06-14; 16:00 ;Group 1;Olympiastadion;Berlin West ;Germany;Germany FR;1;0;Chile;Germany FR;Regular game time
+1974;1974-06-14; 19:30 ;Group 1;Volksparkstadion;Hamburg ;Germany;German DR;2;0;Australia;German DR;Regular game time
+1974;1974-06-14; 19:30 ;Group 2;Westfalenstadion;Dortmund ;Germany;Zaire;0;2;Scotland;Scotland;Regular game time
+1974;1974-06-15; 16:00 ;Group 3;Niedersachsenstadion;Hanover ;Germany;Uruguay;0;2;Netherlands;Netherlands;Regular game time
+1974;1974-06-15; 16:00 ;Group 3;Rheinstadion;Dusseldorf ;Germany;Sweden;0;0;Bulgaria;Draw;Regular game time
+1974;1974-06-15; 18:00 ;Group 4;Olympiastadion;Munich ;Germany;Italy;3;1;Haiti;Italy;Regular game time
+1974;1974-06-15; 18:00 ;Group 4;Neckarstadion;Stuttgart ;Germany;Poland;3;2;Argentina;Poland;Regular game time
+1974;1974-06-18; 16:00 ;Group 1;Volksparkstadion;Hamburg ;Germany;Australia;0;3;Germany FR;Germany FR;Regular game time
+1974;1974-06-18; 19:30 ;Group 2;Waldstadion;Frankfurt/Main ;Germany;Scotland;0;0;Brazil;Draw;Regular game time
+1974;1974-06-18; 19:30 ;Group 1;Olympiastadion;Berlin West ;Germany;Chile;1;1;German DR;Draw;Regular game time
+1974;1974-06-18; 19:30 ;Group 2;Parkstadion;Gelsenkirchen ;Germany;Yugoslavia;9;0;Zaire;Yugoslavia;Regular game time
+1974;1974-06-19; 19:30 ;Group 3;Westfalenstadion;Dortmund ;Germany;Netherlands;0;0;Sweden;Draw;Regular game time
+1974;1974-06-19; 19:30 ;Group 3;Niedersachsenstadion;Hanover ;Germany;Bulgaria;1;1;Uruguay;Draw;Regular game time
+1974;1974-06-19; 19:30 ;Group 4;Olympiastadion;Munich ;Germany;Haiti;0;7;Poland;Poland;Regular game time
+1974;1974-06-19; 19:30 ;Group 4;Neckarstadion;Stuttgart ;Germany;Argentina;1;1;Italy;Draw;Regular game time
+1974;1974-06-22; 16:00 ;Group 2;Waldstadion;Frankfurt/Main ;Germany;Scotland;1;1;Yugoslavia;Draw;Regular game time
+1974;1974-06-22; 16:00 ;Group 1;Olympiastadion;Berlin West ;Germany;Australia;0;0;Chile;Draw;Regular game time
+1974;1974-06-22; 16:00 ;Group 2;Parkstadion;Gelsenkirchen ;Germany;Zaire;0;3;Brazil;Brazil;Regular game time
+1974;1974-06-22; 19:30 ;Group 1;Volksparkstadion;Hamburg ;Germany;German DR;1;0;Germany FR;German DR;Regular game time
+1974;1974-06-23; 16:00 ;Group 3;Westfalenstadion;Dortmund ;Germany;Bulgaria;1;4;Netherlands;Netherlands;Regular game time
+1974;1974-06-23; 16:00 ;Group 4;Olympiastadion;Munich ;Germany;Argentina;4;1;Haiti;Argentina;Regular game time
+1974;1974-06-23; 16:00 ;Group 3;Rheinstadion;Dusseldorf ;Germany;Sweden;3;0;Uruguay;Sweden;Regular game time
+1974;1974-06-23; 16:00 ;Group 4;Neckarstadion;Stuttgart ;Germany;Poland;2;1;Italy;Poland;Regular game time
+1974;1974-06-26; 16:00 ;Group B;Rheinstadion;Dusseldorf ;Germany;Yugoslavia;0;2;Germany FR;Germany FR;Regular game time
+1974;1974-06-26; 19:30 ;Group A;Niedersachsenstadion;Hanover ;Germany;Brazil;1;0;German DR;Brazil;Regular game time
+1974;1974-06-26; 19:30 ;Group A;Parkstadion;Gelsenkirchen ;Germany;Netherlands;4;0;Argentina;Netherlands;Regular game time
+1974;1974-06-26; 19:30 ;Group B;Neckarstadion;Stuttgart ;Germany;Sweden;0;1;Poland;Poland;Regular game time
+1974;1974-06-30; 16:00 ;Group A;Niedersachsenstadion;Hanover ;Germany;Argentina;1;2;Brazil;Brazil;Regular game time
+1974;1974-06-30; 16:00 ;Group B;Waldstadion;Frankfurt/Main ;Germany;Poland;2;1;Yugoslavia;Poland;Regular game time
+1974;1974-06-30; 16:00 ;Group A;Parkstadion;Gelsenkirchen ;Germany;German DR;0;2;Netherlands;Netherlands;Regular game time
+1974;1974-06-30; 19:30 ;Group B;Rheinstadion;Dusseldorf ;Germany;Germany FR;4;2;Sweden;Germany FR;Regular game time
+1974;1974-07-03; 17:00 ;Group B;Waldstadion;Frankfurt/Main ;Germany;Poland;0;1;Germany FR;Germany FR;Regular game time
+1974;1974-07-03; 19:30 ;Group A;Westfalenstadion;Dortmund ;Germany;Netherlands;2;0;Brazil;Netherlands;Regular game time
+1974;1974-07-03; 19:30 ;Group A;Parkstadion;Gelsenkirchen ;Germany;Argentina;1;1;German DR;Draw;Regular game time
+1974;1974-07-03; 19:30 ;Group B;Rheinstadion;Dusseldorf ;Germany;Sweden;2;1;Yugoslavia;Sweden;Regular game time
+1974;1974-07-06; 16:00 ;Match for third place;Olympiastadion;Munich ;Germany;Brazil;0;1;Poland;Poland;Regular game time
+1974;1974-07-07; 16:00 ;Final;Olympiastadion;Munich ;Germany;Netherlands;1;2;Germany FR;Germany FR;Regular game time
+1978;1978-06-01; 15:00 ;Group 2;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Germany FR;0;0;Poland;Draw;Regular game time
+1978;1978-06-02; 13:45 ;Group 1;Estadio Jose Maria Minella;Mar Del Plata ;Argentina;Italy;2;1;France;Italy;Regular game time
+1978;1978-06-02; 16:45 ;Group 2;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Tunisia;3;1;Mexico;Tunisia;Regular game time
+1978;1978-06-02; 19:15 ;Group 1;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Argentina;2;1;Hungary;Argentina;Regular game time
+1978;1978-06-03; 13:45 ;Group 3;Estadio Jose Maria Minella;Mar Del Plata ;Argentina;Sweden;1;1;Brazil;Draw;Regular game time
+1978;1978-06-03; 13:45 ;Group 3;Jose Amalfitani;Buenos Aires ;Argentina;Austria;2;1;Spain;Austria;Regular game time
+1978;1978-06-03; 16:45 ;Group 4;Estadio Olimpico Chateau Carreras;Cordoba ;Argentina;Peru;3;1;Scotland;Peru;Regular game time
+1978;1978-06-03; 16:45 ;Group 4;San Martin;Mendoza ;Argentina;Netherlands;3;0;IR Iran;Netherlands;Regular game time
+1978;1978-06-06; 13:45 ;Group 1;Estadio Jose Maria Minella;Mar Del Plata ;Argentina;Italy;3;1;Hungary;Italy;Regular game time
+1978;1978-06-06; 16:45 ;Group 2;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Poland;1;0;Tunisia;Poland;Regular game time
+1978;1978-06-06; 16:45 ;Group 2;Estadio Olimpico Chateau Carreras;Cordoba ;Argentina;Germany FR;6;0;Mexico;Germany FR;Regular game time
+1978;1978-06-06; 19:15 ;Group 1;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Argentina;2;1;France;Argentina;Regular game time
+1978;1978-06-07; 13:45 ;Group 3;Estadio Jose Maria Minella;Mar Del Plata ;Argentina;Brazil;0;0;Spain;Draw;Regular game time
+1978;1978-06-07; 13:45 ;Group 3;Jose Amalfitani;Buenos Aires ;Argentina;Austria;1;0;Sweden;Austria;Regular game time
+1978;1978-06-07; 16:45 ;Group 4;Estadio Olimpico Chateau Carreras;Cordoba ;Argentina;Scotland;1;1;IR Iran;Draw;Regular game time
+1978;1978-06-07; 16:45 ;Group 4;San Martin;Mendoza ;Argentina;Netherlands;0;0;Peru;Draw;Regular game time
+1978;1978-06-10; 15:10 ;Group 1;Estadio Jose Maria Minella;Mar Del Plata ;Argentina;France;3;1;Hungary;France;Regular game time
+1978;1978-06-10; 16:45 ;Group 2;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Poland;3;1;Mexico;Poland;Regular game time
+1978;1978-06-10; 16:45 ;Group 2;Estadio Olimpico Chateau Carreras;Cordoba ;Argentina;Germany FR;0;0;Tunisia;Draw;Regular game time
+1978;1978-06-10; 19:15 ;Group 1;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Italy;1;0;Argentina;Italy;Regular game time
+1978;1978-06-11; 13:45 ;Group 3;Estadio Jose Maria Minella;Mar Del Plata ;Argentina;Brazil;1;0;Austria;Brazil;Regular game time
+1978;1978-06-11; 13:45 ;Group 3;Jose Amalfitani;Buenos Aires ;Argentina;Spain;1;0;Sweden;Spain;Regular game time
+1978;1978-06-11; 16:45 ;Group 4;Estadio Olimpico Chateau Carreras;Cordoba ;Argentina;Peru;4;1;Iran;Peru;Regular game time
+1978;1978-06-11; 16:45 ;Group 4;San Martin;Mendoza ;Argentina;Scotland;3;2;Netherlands;Scotland;Regular game time
+1978;1978-06-14; 13:45 ;Group A;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Germany FR;0;0;Italy;Draw;Regular game time
+1978;1978-06-14; 13:45 ;Group A;Estadio Olimpico Chateau Carreras;Cordoba ;Argentina;Netherlands;5;1;Austria;Netherlands;Regular game time
+1978;1978-06-14; 16:45 ;Group B;San Martin;Mendoza ;Argentina;Brazil;3;0;Peru;Brazil;Regular game time
+1978;1978-06-14; 19:15 ;Group B;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Argentina;2;0;Poland;Argentina;Regular game time
+1978;1978-06-18; 13:45 ;Group B;San Martin;Mendoza ;Argentina;Poland;1;0;Peru;Poland;Regular game time
+1978;1978-06-18; 16:45 ;Group A;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Italy;1;0;Austria;Italy;Regular game time
+1978;1978-06-18; 16:45 ;Group A;Estadio Olimpico Chateau Carreras;Cordoba ;Argentina;Germany FR;2;2;Netherlands;Draw;Regular game time
+1978;1978-06-18; 19:15 ;Group B;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Argentina;0;0;Brazil;Draw;Regular game time
+1978;1978-06-21; 13:45 ;Group A;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Netherlands;2;1;Italy;Netherlands;Regular game time
+1978;1978-06-21; 13:45 ;Group A;Estadio Olimpico Chateau Carreras;Cordoba ;Argentina;Austria;3;2;Germany FR;Austria;Regular game time
+1978;1978-06-21; 16:45 ;Group B;San Martin;Mendoza ;Argentina;Brazil;3;1;Poland;Brazil;Regular game time
+1978;1978-06-21; 19:15 ;Group B;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Argentina;6;0;Peru;Argentina;Regular game time
+1978;1978-06-24; 15:00 ;Match for third place;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Brazil;2;1;Italy;Brazil;Regular game time
+1978;1978-06-25; 15:00 ;Final;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Argentina;3;1;Netherlands;Argentina;Extra Time
+1982;1982-06-13; 20:00 ;Group 3;Camp Nou;Barcelona ;Spain;Argentina;0;1;Belgium;Belgium;Regular game time
+1982;1982-06-14; 17:15 ;Group 1;Estadio Municipal de Balaidos;Vigo ;Spain;Italy;0;0;Poland;Draw;Regular game time
+1982;1982-06-14; 21:00 ;Group 6;Ramon Sanchez Pizjuan;Seville ;Spain;Brazil;2;1;Soviet Union;Brazil;Regular game time
+1982;1982-06-15; 17:15 ;Group 1;Riazor;La Coru?i;Spain;Peru;0;0;Cameroon;Draw;Regular game time
+1982;1982-06-15; 21:00 ;Group 3;Nuevo Estadio;Elche ;Spain;Hungary;10;1;El Salvador;Hungary;Regular game time
+1982;1982-06-15; 21:00 ;Group 6;La Rosaleda;Malaga ;Spain;Scotland;5;2;New Zealand;Scotland;Regular game time
+1982;1982-06-16; 17:15 ;Group 2;El Molinon;Gijon ;Spain;Germany FR;1;2;Algeria;Algeria;Regular game time
+1982;1982-06-16; 17:15 ;Group 4;San Mames;Bilbao ;Spain;England;3;1;France;England;Regular game time
+1982;1982-06-16; 21:00 ;Group 5;Luis Casanova;Valencia ;Spain;Spain;1;1;Honduras;Draw;Regular game time
+1982;1982-06-17; 17:15 ;Group 2;Carlos Tartiere;Oviedo ;Spain;Chile;0;1;Austria;Austria;Regular game time
+1982;1982-06-17; 17:45 ;Group 4;Jose Zorrilla;Valladolid ;Spain;Czechoslovakia;1;1;Kuwait;Draw;Regular game time
+1982;1982-06-17; 21:00 ;Group 5;La Romareda;Zaragoza ;Spain;Yugoslavia;0;0;Northern Ireland;Draw;Regular game time
+1982;1982-06-18; 17:15 ;Group 1;Estadio Municipal de Balaidos;Vigo ;Spain;Italy;1;1;Peru;Draw;Regular game time
+1982;1982-06-18; 21:00 ;Group 3;Jose Rico Perez;Alicante ;Spain;Argentina;4;1;Hungary;Argentina;Regular game time
+1982;1982-06-18; 21:00 ;Group 6;Benito Villamarin;Seville ;Spain;Brazil;4;1;Scotland;Brazil;Regular game time
+1982;1982-06-19; 19:15 ;Group 1;Riazor;La Coru?i;Spain;Poland;0;0;Cameroon;Draw;Regular game time
+1982;1982-06-19; 21:00 ;Group 3;Nuevo Estadio;Elche ;Spain;Belgium;1;0;El Salvador;Belgium;Regular game time
+1982;1982-06-19; 21:00 ;Group 6;La Rosaleda;Malaga ;Spain;Soviet Union;3;0;New Zealand;Soviet Union;Regular game time
+1982;1982-06-20; 17:15 ;Group 2;El Molinon;Gijon ;Spain;Germany FR;4;1;Chile;Germany FR;Regular game time
+1982;1982-06-20; 17:15 ;Group 4;San Mames;Bilbao ;Spain;England;2;0;Czechoslovakia;England;Regular game time
+1982;1982-06-20; 21:00 ;Group 5;Luis Casanova;Valencia ;Spain;Spain;2;1;Yugoslavia;Spain;Regular game time
+1982;1982-06-21; 17:15 ;Group 2;Carlos Tartiere;Oviedo ;Spain;Algeria;0;2;Austria;Austria;Regular game time
+1982;1982-06-21; 17:15 ;Group 4;Jose Zorrilla;Valladolid ;Spain;France;4;1;Kuwait;France;Regular game time
+1982;1982-06-21; 21:00 ;Group 5;La Romareda;Zaragoza ;Spain;Honduras;1;1;Northern Ireland;Draw;Regular game time
+1982;1982-06-22; 17:15 ;Group 1;Riazor;La Coru?i;Spain;Poland;5;1;Peru;Poland;Regular game time
+1982;1982-06-22; 21:00 ;Group 3;Nuevo Estadio;Elche ;Spain;Belgium;1;1;Hungary;Draw;Regular game time
+1982;1982-06-22; 21:00 ;Group 6;La Rosaleda;Malaga ;Spain;Soviet Union;2;2;Scotland;Draw;Regular game time
+1982;1982-06-23; 17:15 ;Group 1;Estadio Municipal de Balaidos;Vigo ;Spain;Italy;1;1;Cameroon;Draw;Regular game time
+1982;1982-06-23; 21:00 ;Group 3;Jose Rico Perez;Alicante ;Spain;Argentina;2;0;El Salvador;Argentina;Regular game time
+1982;1982-06-23; 21:00 ;Group 6;Benito Villamarin;Seville ;Spain;Brazil;4;0;New Zealand;Brazil;Regular game time
+1982;1982-06-24; 17:15 ;Group 2;Carlos Tartiere;Oviedo ;Spain;Algeria;3;2;Chile;Algeria;Regular game time
+1982;1982-06-24; 17:15 ;Group 4;Jose Zorrilla;Valladolid ;Spain;France;1;1;Czechoslovakia;Draw;Regular game time
+1982;1982-06-24; 21:00 ;Group 5;La Romareda;Zaragoza ;Spain;Honduras;0;1;Yugoslavia;Yugoslavia;Regular game time
+1982;1982-06-25; 17:15 ;Group 2;El Molinon;Gijon ;Spain;Germany FR;1;0;Austria;Germany FR;Regular game time
+1982;1982-06-25; 17:15 ;Group 4;San Mames;Bilbao ;Spain;England;1;0;Kuwait;England;Regular game time
+1982;1982-06-25; 21:00 ;Group 5;Luis Casanova;Valencia ;Spain;Northern Ireland;1;0;Spain;Northern Ireland;Regular game time
+1982;1982-06-28; 17:15 ;Group 4;Vicente Calderon;Madrid ;Spain;Austria;0;1;France;France;Regular game time
+1982;1982-06-28; 21:00 ;Group 1;Camp Nou;Barcelona ;Spain;Poland;3;0;Belgium;Poland;Regular game time
+1982;1982-06-29; 17:15 ;Group 3;Sarria;Barcelona ;Spain;Italy;2;1;Argentina;Italy;Regular game time
+1982;1982-06-29; 21:00 ;Group 2;Santiago Bernabeu;Madrid ;Spain;Germany FR;0;0;England;Draw;Regular game time
+1982;1982-07-01; 17:15 ;Group 4;Vicente Calderon;Madrid ;Spain;Austria;2;2;Northern Ireland;Draw;Regular game time
+1982;1982-07-01; 21:00 ;Group 1;Camp Nou;Barcelona ;Spain;Belgium;0;1;Soviet Union;Soviet Union;Regular game time
+1982;1982-07-02; 17:15 ;Group 3;Sarria;Barcelona ;Spain;Argentina;1;3;Brazil;Brazil;Regular game time
+1982;1982-07-02; 21:00 ;Group 2;Santiago Bernabeu;Madrid ;Spain;Germany FR;2;1;Spain;Germany FR;Regular game time
+1982;1982-07-04; 17:15 ;Group 4;Vicente Calderon;Madrid ;Spain;France;4;1;Northern Ireland;France;Regular game time
+1982;1982-07-04; 21:00 ;Group 1;Camp Nou;Barcelona ;Spain;Poland;0;0;Soviet Union;Draw;Regular game time
+1982;1982-07-05; 17:15 ;Group 3;Sarria;Barcelona ;Spain;Italy;3;2;Brazil;Italy;Regular game time
+1982;1982-07-05; 21:00 ;Group 2;Santiago Bernabeu;Madrid ;Spain;Spain;0;0;England;Draw;Regular game time
+1982;1982-07-08; 17:15 ;Semi-finals;Camp Nou;Barcelona ;Spain;Poland;0;2;Italy;Italy;Regular game time
+1982;1982-07-08; 21:00 ;Semi-finals;Ramon Sanchez Pizjuan;Seville ;Spain;Germany FR;3;3;France;Germany FR;Penalties (5-4)
+1982;1982-07-10; 20:00 ;Match for third place;Jose Rico Perez;Alicante ;Spain;Poland;3;2;France;Poland;Regular game time
+1982;1982-07-11; 20:00 ;Final;Santiago Bernabeu;Madrid ;Spain;Italy;3;1;Germany FR;Italy;Regular game time
+1986;1986-05-31; 12:00 ;Group A;Estadio Azteca;Mexico City ;Mexico;Bulgaria;1;1;Italy;Draw;Regular game time
+1986;1986-06-01; 16:00 ;Group C;Nou Camp - Estadio Leon;Leon ;Mexico;Canada;0;1;France;France;Regular game time
+1986;1986-06-01; 12:00 ;Group D;Jalisco;Guadalajara ;Mexico;Spain;0;1;Brazil;Brazil;Regular game time
+1986;1986-06-02; 12:00 ;Group C;Estadio Irapuato;Irapuato ;Mexico;Soviet Union;6;0;Hungary;Soviet Union;Regular game time
+1986;1986-06-02; 12:00 ;Group A;Estadio Olimpico Universitario;Mexico City ;Mexico;Argentina;3;1;Korea Republic;Argentina;Regular game time
+1986;1986-06-02; 16:00 ;Group F;Estadio Universitario;Monterrey ;Mexico;Morocco;0;0;Poland;Draw;Regular game time
+1986;1986-06-03; 12:00 ;Group D;Tres de Marzo;Guadalajara ;Mexico;Algeria;1;1;Northern Ireland;Draw;Regular game time
+1986;1986-06-03; 12:00 ;Group B;Estadio Azteca;Mexico City ;Mexico;Belgium;1;2;Mexico;Mexico;Regular game time
+1986;1986-06-03; 16:00 ;Group F;Tecnologico;Monterrey ;Mexico;Portugal;1;0;England;Portugal;Regular game time
+1986;1986-06-04; 12:00 ;Group B;Bombonera - Estadio Nemesio Diez;Toluca ;Mexico;Paraguay;1;0;Iraq;Paraguay;Regular game time
+1986;1986-06-04; 16:00 ;Group E;Neza;Nezahualcoyotl ;Mexico;Scotland;0;1;Denmark;Denmark;Regular game time
+1986;1986-06-04; 12:00 ;Group E;Estadio Corregidora;Queretaro ;Mexico;Uruguay;1;1;Germany FR;Draw;Regular game time
+1986;1986-06-05; 12:00 ;Group A;Cuauhtemoc;Puebla ;Mexico;Italy;1;1;Argentina;Draw;Regular game time
+1986;1986-06-05; 12:00 ;Group C;Nou Camp - Estadio Leon;Leon ;Mexico;France;1;1;Soviet Union;Draw;Regular game time
+1986;1986-06-05; 16:00 ;Group A;Estadio Olimpico Universitario;Mexico City ;Mexico;Korea Republic;1;1;Bulgaria;Draw;Regular game time
+1986;1986-06-06; 12:00 ;Group C;Estadio Irapuato;Irapuato ;Mexico;Hungary;2;0;Canada;Hungary;Regular game time
+1986;1986-06-06; 12:00 ;Group D;Jalisco;Guadalajara ;Mexico;Brazil;1;0;Algeria;Brazil;Regular game time
+1986;1986-06-06; 16:00 ;Group F;Tecnologico;Monterrey ;Mexico;England;0;0;Morocco;Draw;Regular game time
+1986;1986-06-07; 12:00 ;Group D;Tres de Marzo;Guadalajara ;Mexico;Northern Ireland;1;2;Spain;Spain;Regular game time
+1986;1986-06-07; 12:00 ;Group B;Estadio Azteca;Mexico City ;Mexico;Mexico;1;1;Paraguay;Draw;Regular game time
+1986;1986-06-07; 16:00 ;Group F;Estadio Universitario;Monterrey ;Mexico;Poland;1;0;Portugal;Poland;Regular game time
+1986;1986-06-08; 12:00 ;Group B;Bombonera - Estadio Nemesio Diez;Toluca ;Mexico;Iraq;1;2;Belgium;Belgium;Regular game time
+1986;1986-06-08; 16:00 ;Group E;Neza;Nezahualcoyotl ;Mexico;Denmark;6;1;Uruguay;Denmark;Regular game time
+1986;1986-06-08; 12:00 ;Group E;Estadio Corregidora;Queretaro ;Mexico;Germany FR;2;1;Scotland;Germany FR;Regular game time
+1986;1986-06-09; 12:00 ;Group C;Nou Camp - Estadio Leon;Leon ;Mexico;Hungary;0;3;France;France;Regular game time
+1986;1986-06-09; 12:00 ;Group C;Estadio Irapuato;Irapuato ;Mexico;Soviet Union;2;0;Canada;Soviet Union;Regular game time
+1986;1986-06-10; 12:00 ;Group A;Cuauhtemoc;Puebla ;Mexico;Korea Republic;2;3;Italy;Italy;Regular game time
+1986;1986-06-10; 12:00 ;Group A;Estadio Olimpico Universitario;Mexico City ;Mexico;Argentina;2;0;Bulgaria;Argentina;Regular game time
+1986;1986-06-11; 12:00 ;Group B;Bombonera - Estadio Nemesio Diez;Toluca ;Mexico;Paraguay;2;2;Belgium;Draw;Regular game time
+1986;1986-06-11; 12:00 ;Group B;Estadio Azteca;Mexico City ;Mexico;Iraq;0;1;Mexico;Mexico;Regular game time
+1986;1986-06-11; 16:00 ;Group F;Tres de Marzo;Guadalajara ;Mexico;Portugal;1;3;Morocco;Morocco;Regular game time
+1986;1986-06-11; 16:00 ;Group F;Tecnologico;Monterrey ;Mexico;England;3;0;Poland;England;Regular game time
+1986;1986-06-12; 12:00 ;Group D;Jalisco;Guadalajara ;Mexico;Northern Ireland;0;3;Brazil;Brazil;Regular game time
+1986;1986-06-12; 12:00 ;Group D;Tecnologico;Monterrey ;Mexico;Algeria;0;3;Spain;Spain;Regular game time
+1986;1986-06-13; 12:00 ;Group E;Neza;Nezahualcoyotl ;Mexico;Scotland;0;0;Uruguay;Draw;Regular game time
+1986;1986-06-13; 12:00 ;Group E;Estadio Corregidora;Queretaro ;Mexico;Denmark;2;0;Germany FR;Denmark;Regular game time
+1986;1986-06-15; 16:00 ;Round of 16;Nou Camp - Estadio Leon;Leon ;Mexico;Soviet Union;3;4;Belgium;Belgium;Extra Time
+1986;1986-06-15; 12:00 ;Round of 16;Estadio Azteca;Mexico City ;Mexico;Mexico;2;0;Bulgaria;Mexico;Regular game time
+1986;1986-06-16; 16:00 ;Round of 16;Cuauhtemoc;Puebla ;Mexico;Argentina;1;0;Uruguay;Argentina;Regular game time
+1986;1986-06-16; 12:00 ;Round of 16;Jalisco;Guadalajara ;Mexico;Brazil;4;0;Poland;Brazil;Regular game time
+1986;1986-06-17; 12:00 ;Round of 16;Estadio Olimpico Universitario;Mexico City ;Mexico;Italy;0;2;France;France;Regular game time
+1986;1986-06-17; 16:00 ;Round of 16;Estadio Universitario;Monterrey ;Mexico;Morocco;0;1;Germany FR;Germany FR;Regular game time
+1986;1986-06-18; 12:00 ;Round of 16;Estadio Azteca;Mexico City ;Mexico;England;3;0;Paraguay;England;Regular game time
+1986;1986-06-18; 16:00 ;Round of 16;Estadio Corregidora;Queretaro ;Mexico;Denmark;1;5;Spain;Spain;Regular game time
+1986;1986-06-21; 12:00 ;Quarter-finals;Jalisco;Guadalajara ;Mexico;Brazil;1;1;France;France;Penalties (4-3)
+1986;1986-06-21; 16:00 ;Quarter-finals;Estadio Universitario;Monterrey ;Mexico;Germany FR;0;0;Mexico;Germany FR;Penalties (4-1)
+1986;1986-06-22; 16:00 ;Quarter-finals;Cuauhtemoc;Puebla ;Mexico;Spain;1;1;Belgium;Belgium;Penalties (5-4)
+1986;1986-06-22; 12:00 ;Quarter-finals;Estadio Azteca;Mexico City ;Mexico;Argentina;2;1;England;Argentina;Regular game time
+1986;1986-06-25; 12:00 ;Semi-finals;Jalisco;Guadalajara ;Mexico;France;0;2;Germany FR;Germany FR;Regular game time
+1986;1986-06-25; 16:00 ;Semi-finals;Estadio Azteca;Mexico City ;Mexico;Argentina;2;0;Belgium;Argentina;Regular game time
+1986;1986-06-28; 12:00 ;Match for third place;Cuauhtemoc;Puebla ;Mexico;France;4;2;Belgium;France;Extra Time
+1986;1986-06-29; 12:00 ;Final;Estadio Azteca;Mexico City ;Mexico;Argentina;3;2;Germany FR;Argentina;Regular game time
+1990;1990-06-08; 18:00 ;Group B;Giuseppe Meazza;Milan ;Italy;Argentina;0;1;Cameroon;Cameroon;Regular game time
+1990;1990-06-09; 17:00 ;Group B;Stadio San Nicola;Bari ;Italy;Soviet Union;0;2;Romania;Romania;Regular game time
+1990;1990-06-09; 17:00 ;Group D;Renato Dall Ara;Bologna ;Italy;United Arab Emirates;0;2;Colombia;Colombia;Regular game time
+1990;1990-06-09; 21:00 ;Group A;Stadio Olimpico;Rome ;Italy;Italy;1;0;Austria;Italy;Regular game time
+1990;1990-06-10; 17:00 ;Group A;Comunale;Florence ;Italy;USA;1;5;Czechoslovakia;Czechoslovakia;Regular game time
+1990;1990-06-10; 21:00 ;Group C;Stadio delle Alpi;Turin ;Italy;Brazil;2;1;Sweden;Brazil;Regular game time
+1990;1990-06-10; 21:00 ;Group D;Giuseppe Meazza;Milan ;Italy;Germany FR;4;1;Yugoslavia;Germany FR;Regular game time
+1990;1990-06-11; 17:00 ;Group C;Luigi Ferraris;Genoa ;Italy;Costa Rica;1;0;Scotland;Costa Rica;Regular game time
+1990;1990-06-11; 21:00 ;Group F;Sant Elia;Cagliari ;Italy;England;1;1;Republic of Ireland;Draw;Regular game time
+1990;1990-06-12; 17:00 ;Group E;Marc Antonio Bentegodi;Verona ;Italy;Belgium;2;0;Korea Republic;Belgium;Regular game time
+1990;1990-06-12; 21:00 ;Group F;Della Favorita;Palermo ;Italy;Netherlands;1;1;Egypt;Draw;Regular game time
+1990;1990-06-13; 17:00 ;Group E;Dacia Arena;Udine ;Italy;Uruguay;0;0;Spain;Draw;Regular game time
+1990;1990-06-13; 21:00 ;Group B;San Paolo;Naples ;Italy;Argentina;2;0;Soviet Union;Argentina;Regular game time
+1990;1990-06-14; 17:00 ;Group B;Stadio San Nicola;Bari ;Italy;Cameroon;2;1;Romania;Cameroon;Regular game time
+1990;1990-06-14; 17:00 ;Group D;Renato Dall Ara;Bologna ;Italy;Yugoslavia;1;0;Colombia;Yugoslavia;Regular game time
+1990;1990-06-14; 21:00 ;Group A;Stadio Olimpico;Rome ;Italy;Italy;1;0;USA;Italy;Regular game time
+1990;1990-06-15; 17:00 ;Group A;Comunale;Florence ;Italy;Austria;0;1;Czechoslovakia;Czechoslovakia;Regular game time
+1990;1990-06-15; 21:00 ;Group D;Giuseppe Meazza;Milan ;Italy;Germany FR;5;1;United Arab Emirates;Germany FR;Regular game time
+1990;1990-06-16; 17:00 ;Group C;Stadio delle Alpi;Turin ;Italy;Brazil;1;0;Costa Rica;Brazil;Regular game time
+1990;1990-06-16; 21:00 ;Group C;Luigi Ferraris;Genoa ;Italy;Sweden;1;2;Scotland;Scotland;Regular game time
+1990;1990-06-16; 21:00 ;Group F;Sant Elia;Cagliari ;Italy;England;0;0;Netherlands;Draw;Regular game time
+1990;1990-06-17; 17:00 ;Group F;Della Favorita;Palermo ;Italy;Republic of Ireland;0;0;Egypt;Draw;Regular game time
+1990;1990-06-17; 21:00 ;Group E;Dacia Arena;Udine ;Italy;Korea Republic;1;3;Spain;Spain;Regular game time
+1990;1990-06-17; 21:00 ;Group E;Marc Antonio Bentegodi;Verona ;Italy;Belgium;3;1;Uruguay;Belgium;Regular game time
+1990;1990-06-18; 21:00 ;Group B;San Paolo;Naples ;Italy;Argentina;1;1;Romania;Draw;Regular game time
+1990;1990-06-18; 21:00 ;Group B;Stadio San Nicola;Bari ;Italy;Cameroon;0;4;Soviet Union;Soviet Union;Regular game time
+1990;1990-06-19; 17:00 ;Group D;Giuseppe Meazza;Milan ;Italy;Germany FR;1;1;Colombia;Draw;Regular game time
+1990;1990-06-19; 17:00 ;Group D;Renato Dall Ara;Bologna ;Italy;Yugoslavia;4;1;United Arab Emirates;Yugoslavia;Regular game time
+1990;1990-06-19; 21:00 ;Group A;Stadio Olimpico;Rome ;Italy;Italy;2;0;Czechoslovakia;Italy;Regular game time
+1990;1990-06-19; 21:00 ;Group A;Comunale;Florence ;Italy;Austria;2;1;USA;Austria;Regular game time
+1990;1990-06-20; 21:00 ;Group C;Stadio delle Alpi;Turin ;Italy;Brazil;1;0;Scotland;Brazil;Regular game time
+1990;1990-06-20; 21:00 ;Group C;Luigi Ferraris;Genoa ;Italy;Sweden;1;2;Costa Rica;Costa Rica;Regular game time
+1990;1990-06-21; 17:00 ;Group E;Friuli;Udine ;Italy;Korea Republic;0;1;Uruguay;Uruguay;Regular game time
+1990;1990-06-21; 17:00 ;Group E;Marc Antonio Bentegodi;Verona ;Italy;Belgium;1;2;Spain;Spain;Regular game time
+1990;1990-06-21; 21:00 ;Group F;Della Favorita;Palermo ;Italy;Republic of Ireland;1;1;Netherlands;Draw;Regular game time
+1990;1990-06-21; 21:00 ;Group F;Sant Elia;Cagliari ;Italy;England;1;0;Egypt;England;Regular game time
+1990;1990-06-23; 17:00 ;Round of 16;San Paolo;Naples ;Italy;Cameroon;2;1;Colombia;Cameroon;Extra Time
+1990;1990-06-23; 21:00 ;Round of 16;Stadio San Nicola;Bari ;Italy;Czechoslovakia;4;1;Costa Rica;Czechoslovakia;Regular game time
+1990;1990-06-24; 17:00 ;Round of 16;Stadio delle Alpi;Turin ;Italy;Brazil;0;1;Argentina;Argentina;Regular game time
+1990;1990-06-24; 21:00 ;Round of 16;Giuseppe Meazza;Milan ;Italy;Germany FR;2;1;Netherlands;Germany FR;Regular game time
+1990;1990-06-25; 17:00 ;Round of 16;Luigi Ferraris;Genoa ;Italy;Republic of Ireland;0;0;Romania;Republic of Ireland;Penalties (5-4)
+1990;1990-06-25; 21:00 ;Round of 16;Stadio Olimpico;Rome ;Italy;Italy;2;0;Uruguay;Italy;Regular game time
+1990;1990-06-26; 17:00 ;Round of 16;Marc Antonio Bentegodi;Verona ;Italy;Spain;1;2;Yugoslavia;Yugoslavia;Extra Time
+1990;1990-06-26; 21:00 ;Round of 16;Renato Dall Ara;Bologna ;Italy;England;1;0;Belgium;England;Extra Time
+1990;1990-06-30; 17:00 ;Quarter-finals;Comunale;Florence ;Italy;Yugoslavia;0;0;Argentina;Argentina;Penalties (3-2)
+1990;1990-06-30; 21:00 ;Quarter-finals;Stadio Olimpico;Rome ;Italy;Italy;1;0;Republic of Ireland;Italy;Regular game time
+1990;1990-07-01; 17:00 ;Quarter-finals;Giuseppe Meazza;Milan ;Italy;Germany FR;1;0;Czechoslovakia;Germany FR;Regular game time
+1990;1990-07-01; 21:00 ;Quarter-finals;San Paolo;Naples ;Italy;England;3;2;Cameroon;England;Extra Time
+1990;1990-07-03; 20:00 ;Semi-finals;San Paolo;Naples ;Italy;Italy;1;1;Argentina;Argentina;Penalties (4-3)
+1990;1990-07-04; 20:00 ;Semi-finals;Stadio delle Alpi;Turin ;Italy;Germany FR;1;1;England;Germany FR;Penalties (4-3)
+1990;1990-07-07; 20:00 ;Match for third place;Stadio San Nicola;Bari ;Italy;Italy;2;1;England;Italy;Regular game time
+1990;1990-07-08; 20:00 ;Final;Stadio Olimpico;Rome ;Italy;Germany FR;1;0;Argentina;Germany FR;Regular game time
+1994;1994-06-17; 19:30 ;Group C;Cotton Bowl;Dallas ;USA;Spain;2;2;Korea Republic;Draw;Regular game time
+1994;1994-06-17; 15:00 ;Group C;Soldier Field;Chicago ;USA;Germany;1;0;Bolivia;Germany;Regular game time
+1994;1994-06-18; 11:30 ;Group A;Pontiac Silverdome;Detroit ;USA;USA;1;1;Switzerland;Draw;Regular game time
+1994;1994-06-18; 16:00 ;Group E;Giants Stadium;New York/New Jersey ;USA;Italy;0;1;Republic of Ireland;Republic of Ireland;Regular game time
+1994;1994-06-18; 19:30 ;Group A;Rose Bowl;Los Angeles ;USA;Colombia;1;3;Romania;Romania;Regular game time
+1994;1994-06-19; 12:30 ;Group F;Citrus Bowl;Orlando ;USA;Belgium;1;0;Morocco;Belgium;Regular game time
+1994;1994-06-19; 16:00 ;Group E;RFK Stadium;Washington Dc ;USA;Norway;1;0;Mexico;Norway;Regular game time
+1994;1994-06-19; 19:30 ;Group B;Rose Bowl;Los Angeles ;USA;Cameroon;2;2;Sweden;Draw;Regular game time
+1994;1994-06-20; 19:30 ;Group F;RFK Stadium;Washington Dc ;USA;Netherlands;2;1;Saudi Arabia;Netherlands;Regular game time
+1994;1994-06-20; 16:00 ;Group B;Stanford Stadium;San Francisco ;USA;Brazil;2;0;Russia;Brazil;Regular game time
+1994;1994-06-21; 12:30 ;Group D;Foxboro Stadium;Boston ;USA;Argentina;4;0;Greece;Argentina;Regular game time
+1994;1994-06-21; 19:30 ;Group D;Cotton Bowl;Dallas ;USA;Nigeria;3;0;Bulgaria;Nigeria;Regular game time
+1994;1994-06-21; 16:00 ;Group C;Soldier Field;Chicago ;USA;Germany;1;1;Spain;Draw;Regular game time
+1994;1994-06-22; 16:00 ;Group A;Pontiac Silverdome;Detroit ;USA;Romania;1;4;Switzerland;Switzerland;Regular game time
+1994;1994-06-22; 19:30 ;Group A;Rose Bowl;Los Angeles ;USA;USA;2;1;Colombia;USA;Regular game time
+1994;1994-06-23; 16:00 ;Group E;Giants Stadium;New York/New Jersey ;USA;Italy;1;0;Norway;Italy;Regular game time
+1994;1994-06-23; 19:30 ;Group C;Foxboro Stadium;Boston ;USA;Korea Republic;0;0;Bolivia;Draw;Regular game time
+1994;1994-06-24; 12:30 ;Group E;Citrus Bowl;Orlando ;USA;Mexico;2;1;Republic of Ireland;Mexico;Regular game time
+1994;1994-06-24; 19:30 ;Group B;Pontiac Silverdome;Detroit ;USA;Sweden;3;1;Russia;Sweden;Regular game time
+1994;1994-06-24; 16:00 ;Group B;Stanford Stadium;San Francisco ;USA;Brazil;3;0;Cameroon;Brazil;Regular game time
+1994;1994-06-25; 12:30 ;Group F;Citrus Bowl;Orlando ;USA;Belgium;1;0;Netherlands;Belgium;Regular game time
+1994;1994-06-25; 12:30 ;Group F;Giants Stadium;New York/New Jersey ;USA;Saudi Arabia;2;1;Morocco;Saudi Arabia;Regular game time
+1994;1994-06-25; 16:00 ;Group D;Foxboro Stadium;Boston ;USA;Argentina;2;1;Nigeria;Argentina;Regular game time
+1994;1994-06-26; 12:30 ;Group D;Soldier Field;Chicago ;USA;Bulgaria;4;0;Greece;Bulgaria;Regular game time
+1994;1994-06-26; 16:00 ;Group A;Rose Bowl;Los Angeles ;USA;USA;0;1;Romania;Romania;Regular game time
+1994;1994-06-26; 16:00 ;Group A;Stanford Stadium;San Francisco ;USA;Switzerland;0;2;Colombia;Colombia;Regular game time
+1994;1994-06-27; 16:00 ;Group C;Cotton Bowl;Dallas ;USA;Germany;3;2;Korea Republic;Germany;Regular game time
+1994;1994-06-27; 16:00 ;Group C;Soldier Field;Chicago ;USA;Bolivia;1;3;Spain;Spain;Regular game time
+1994;1994-06-28; 12:30 ;Group E;Giants Stadium;New York/New Jersey ;USA;Republic of Ireland;0;0;Norway;Draw;Regular game time
+1994;1994-06-28; 16:00 ;Group B;Pontiac Silverdome;Detroit ;USA;Brazil;1;1;Sweden;Draw;Regular game time
+1994;1994-06-28; 12:30 ;Group E;RFK Stadium;Washington Dc ;USA;Italy;1;1;Mexico;Draw;Regular game time
+1994;1994-06-28; 16:00 ;Group B;Stanford Stadium;San Francisco ;USA;Russia;6;1;Cameroon;Russia;Regular game time
+1994;1994-06-29; 12:30 ;Group F;Citrus Bowl;Orlando ;USA;Morocco;1;2;Netherlands;Netherlands;Regular game time
+1994;1994-06-29; 12:30 ;Group F;RFK Stadium;Washington Dc ;USA;Belgium;0;1;Saudi Arabia;Saudi Arabia;Regular game time
+1994;1994-06-30; 19:30 ;Group D;Foxboro Stadium;Boston ;USA;Greece;0;2;Nigeria;Nigeria;Regular game time
+1994;1994-06-30; 19:30 ;Group D;Cotton Bowl;Dallas ;USA;Argentina;0;2;Bulgaria;Bulgaria;Regular game time
+1994;1994-07-02; 12:00 ;Round of 16;Soldier Field;Chicago ;USA;Germany;3;2;Belgium;Germany;Regular game time
+1994;1994-07-02; 16:30 ;Round of 16;RFK Stadium;Washington Dc ;USA;Spain;3;0;Switzerland;Spain;Regular game time
+1994;1994-07-03; 12:00 ;Round of 16;Cotton Bowl;Dallas ;USA;Saudi Arabia;1;3;Sweden;Sweden;Regular game time
+1994;1994-07-03; 13:30 ;Round of 16;Rose Bowl;Los Angeles ;USA;Romania;3;2;Argentina;Romania;Regular game time
+1994;1994-07-04; 12:00 ;Round of 16;Citrus Bowl;Orlando ;USA;Netherlands;2;0;Republic of Ireland;Netherlands;Regular game time
+1994;1994-07-04; 12:30 ;Round of 16;Stanford Stadium;San Francisco ;USA;Brazil;1;0;USA;Brazil;Regular game time
+1994;1994-07-05; 13:00 ;Round of 16;Foxboro Stadium;Boston ;USA;Nigeria;1;2;Italy;Italy;Extra Time
+1994;1994-07-05; 16:30 ;Round of 16;Giants Stadium;New York/New Jersey ;USA;Mexico;1;1;Bulgaria;Bulgaria;Penalties (3-1)
+1994;1994-07-09; 12:00 ;Quarter-finals;Foxboro Stadium;Boston ;USA;Italy;2;1;Spain;Italy;Regular game time
+1994;1994-07-09; 14:30 ;Quarter-finals;Cotton Bowl;Dallas ;USA;Netherlands;2;3;Brazil;Brazil;Regular game time
+1994;1994-07-10; 12:00 ;Quarter-finals;Giants Stadium;New York/New Jersey ;USA;Bulgaria;2;1;Germany;Bulgaria;Regular game time
+1994;1994-07-10; 12:30 ;Quarter-finals;Stanford Stadium;San Francisco ;USA;Romania;2;2;Sweden;Sweden;Penalties (5-4)
+1994;1994-07-13; 16:00 ;Semi-finals;Giants Stadium;New York/New Jersey ;USA;Bulgaria;1;2;Italy;Italy;Regular game time
+1994;1994-07-13; 16:30 ;Semi-finals;Rose Bowl;Los Angeles ;USA;Sweden;0;1;Brazil;Brazil;Regular game time
+1994;1994-07-16; 12:30 ;Match for third place;Rose Bowl;Los Angeles ;USA;Sweden;4;0;Bulgaria;Sweden;Regular game time
+1994;1994-07-17; 12:30 ;Final;Rose Bowl;Los Angeles ;USA;Brazil;0;0;Italy;Brazil;Penalties (3-2)
+1998;1998-06-10; 17:30 ;Group A;Stade de France;Saint-Denis ;France;Brazil;2;1;Scotland;Brazil;Regular game time
+1998;1998-06-10; 21:00 ;Group A;La Mosson;Montpellier ;France;Morocco;2;2;Norway;Draw;Regular game time
+1998;1998-06-11; 17:30 ;Group B;Stade du Parc Lescure;Bordeaux ;France;Italy;2;2;Chile;Draw;Regular game time
+1998;1998-06-11; 21:00 ;Group B;Stade Municipal;Toulouse ;France;Cameroon;1;1;Austria;Draw;Regular game time
+1998;1998-06-12; 14:30 ;Group D;La Mosson;Montpellier ;France;Paraguay;0;0;Bulgaria;Draw;Regular game time
+1998;1998-06-12; 17:30 ;Group C;Stade Felix Bollaert;Lens ;France;Saudi Arabia;0;1;Denmark;Denmark;Regular game time
+1998;1998-06-12; 21:00 ;Group C;Stade Velodrome;Marseilles ;France;France;3;0;South Africa;France;Regular game time
+1998;1998-06-13; 14:30 ;Group D;La Beaujoire;Nantes ;France;Spain;2;3;Nigeria;Nigeria;Regular game time
+1998;1998-06-13; 17:30 ;Group E;Stade de Gerland;Lyon ;France;Korea Republic;1;3;Mexico;Mexico;Regular game time
+1998;1998-06-13; 21:00 ;Group E;Stade de France;Saint-Denis ;France;Netherlands;0;0;Belgium;Draw;Regular game time
+1998;1998-06-14; 14:30 ;Group H;Stade Municipal;Toulouse ;France;Argentina;1;0;Japan;Argentina;Regular game time
+1998;1998-06-14; 17:30 ;Group F;Stade Geoffroy Guichard;Saint-Etienne ;France;Yugoslavia;1;0;Iran;Yugoslavia;Regular game time
+1998;1998-06-14; 21:00 ;Group H;Stade Felix Bollaert;Lens ;France;Jamaica;1;3;Croatia;Croatia;Regular game time
+1998;1998-06-15; 14:30 ;Group G;Stade Velodrome;Marseilles ;France;England;2;0;Tunisia;England;Regular game time
+1998;1998-06-15; 17:30 ;Group G;Stade de Gerland;Lyon ;France;Romania;1;0;Colombia;Romania;Regular game time
+1998;1998-06-15; 21:00 ;Group F;Parc des Princes;Paris ;France;Germany;2;0;USA;Germany;Regular game time
+1998;1998-06-16; 17:30 ;Group A;Stade du Parc Lescure;Bordeaux ;France;Scotland;1;1;Norway;Draw;Regular game time
+1998;1998-06-16; 21:00 ;Group A;La Beaujoire;Nantes ;France;Brazil;3;0;Morocco;Brazil;Regular game time
+1998;1998-06-17; 17:30 ;Group B;Stade Geoffroy Guichard;Saint-Etienne ;France;Chile;1;1;Austria;Draw;Regular game time
+1998;1998-06-17; 21:00 ;Group B;La Mosson;Montpellier ;France;Italy;3;0;Cameroon;Italy;Regular game time
+1998;1998-06-18; 17:30 ;Group C;Stade Municipal;Toulouse ;France;South Africa;1;1;Denmark;Draw;Regular game time
+1998;1998-06-18; 21:00 ;Group C;Stade de France;Saint-Denis ;France;France;4;0;Saudi Arabia;France;Regular game time
+1998;1998-06-19; 17:30 ;Group D;Parc des Princes;Paris ;France;Nigeria;1;0;Bulgaria;Nigeria;Regular game time
+1998;1998-06-19; 21:00 ;Group D;Stade Geoffroy Guichard;Saint-Etienne ;France;Spain;0;0;Paraguay;Draw;Regular game time
+1998;1998-06-20; 14:30 ;Group H;La Beaujoire;Nantes ;France;Japan;0;1;Croatia;Croatia;Regular game time
+1998;1998-06-20; 17:30 ;Group E;Stade du Parc Lescure;Bordeaux ;France;Belgium;2;2;Mexico;Draw;Regular game time
+1998;1998-06-20; 21:00 ;Group E;Stade Velodrome;Marseilles ;France;Netherlands;5;0;Korea Republic;Netherlands;Regular game time
+1998;1998-06-21; 14:30 ;Group F;Stade Felix Bollaert;Lens ;France;Germany;2;2;Yugoslavia;Draw;Regular game time
+1998;1998-06-21; 17:30 ;Group H;Parc des Princes;Paris ;France;Argentina;5;0;Jamaica;Argentina;Regular game time
+1998;1998-06-21; 21:00 ;Group F;Stade de Gerland;Lyon ;France;USA;1;2;Iran;Iran;Regular game time
+1998;1998-06-22; 17:30 ;Group G;La Mosson;Montpellier ;France;Colombia;1;0;Tunisia;Colombia;Regular game time
+1998;1998-06-22; 21:00 ;Group G;Stade Municipal;Toulouse ;France;Romania;2;1;England;Romania;Regular game time
+1998;1998-06-23; 16:00 ;Group B;Stade de France;Saint-Denis ;France;Italy;2;1;Austria;Italy;Regular game time
+1998;1998-06-23; 16:00 ;Group B;La Beaujoire;Nantes ;France;Chile;1;1;Cameroon;Draw;Regular game time
+1998;1998-06-23; 21:00 ;Group A;Stade Geoffroy Guichard;Saint-Etienne ;France;Scotland;0;3;Morocco;Morocco;Regular game time
+1998;1998-06-23; 21:00 ;Group A;Stade Velodrome;Marseilles ;France;Brazil;1;2;Norway;Norway;Regular game time
+1998;1998-06-24; 16:00 ;Group C;Stade de Gerland;Lyon ;France;France;2;1;Denmark;France;Regular game time
+1998;1998-06-24; 16:00 ;Group C;Stade du Parc Lescure;Bordeaux ;France;South Africa;2;2;Saudi Arabia;Draw;Regular game time
+1998;1998-06-24; 21:00 ;Group D;Stade Felix Bollaert;Lens ;France;Spain;6;1;Bulgaria;Spain;Regular game time
+1998;1998-06-24; 21:00 ;Group D;Stade Municipal;Toulouse ;France;Nigeria;1;3;Paraguay;Paraguay;Regular game time
+1998;1998-06-25; 16:00 ;Group E;Parc des Princes;Paris ;France;Belgium;1;1;Korea Republic;Draw;Regular game time
+1998;1998-06-25; 16:00 ;Group E;Stade Geoffroy Guichard;Saint-Etienne ;France;Netherlands;2;2;Mexico;Draw;Regular game time
+1998;1998-06-25; 21:00 ;Group F;La Mosson;Montpellier ;France;Germany;2;0;Iran;Germany;Regular game time
+1998;1998-06-25; 21:00 ;Group F;La Beaujoire;Nantes ;France;USA;0;1;Yugoslavia;Yugoslavia;Regular game time
+1998;1998-06-26; 16:00 ;Group H;Stade de Gerland;Lyon ;France;Japan;1;2;Jamaica;Jamaica;Regular game time
+1998;1998-06-26; 16:00 ;Group H;Stade du Parc Lescure;Bordeaux ;France;Argentina;1;0;Croatia;Argentina;Regular game time
+1998;1998-06-26; 21:00 ;Group G;Stade de France;Saint-Denis ;France;Romania;1;1;Tunisia;Draw;Regular game time
+1998;1998-06-26; 21:00 ;Group G;Stade Felix Bollaert;Lens ;France;Colombia;0;2;England;England;Regular game time
+1998;1998-06-27; 16:30 ;Round of 16;Stade Velodrome;Marseilles ;France;Italy;1;0;Norway;Italy;Regular game time
+1998;1998-06-27; 21:00 ;Round of 16;Parc des Princes;Paris ;France;Brazil;4;1;Chile;Brazil;Regular game time
+1998;1998-06-28; 16:30 ;Round of 16;Stade Felix Bollaert;Lens ;France;France;1;0;Paraguay;France;Extra Time
+1998;1998-06-28; 21:00 ;Round of 16;Stade de France;Saint-Denis ;France;Nigeria;1;4;Denmark;Denmark;Regular game time
+1998;1998-06-29; 16:30 ;Round of 16;La Mosson;Montpellier ;France;Germany;2;1;Mexico;Germany;Regular game time
+1998;1998-06-29; 21:00 ;Round of 16;Stade Municipal;Toulouse ;France;Netherlands;2;1;Yugoslavia;Netherlands;Regular game time
+1998;1998-06-30; 16:30 ;Round of 16;Stade du Parc Lescure;Bordeaux ;France;Romania;0;1;Croatia;Croatia;Regular game time
+1998;1998-06-30; 21:00 ;Round of 16;Stade Geoffroy Guichard;Saint-Etienne ;France;Argentina;2;2;England;Argentina;Penalties (4-3)
+1998;1998-07-03; 16:30 ;Quarter-finals;Stade de France;Saint-Denis ;France;Italy;0;0;France;France;Penalties (4-3)
+1998;1998-07-03; 21:00 ;Quarter-finals;La Beaujoire;Nantes ;France;Brazil;3;2;Denmark;Brazil;Regular game time
+1998;1998-07-04; 16:30 ;Quarter-finals;Stade Velodrome;Marseilles ;France;Netherlands;2;1;Argentina;Netherlands;Regular game time
+1998;1998-07-04; 21:00 ;Quarter-finals;Stade de Gerland;Lyon ;France;Germany;0;3;Croatia;Croatia;Regular game time
+1998;1998-07-07; 21:00 ;Semi-finals;Stade Velodrome;Marseilles ;France;Brazil;1;1;Netherlands;Brazil;Penalties (4-2)
+1998;1998-07-08; 21:00 ;Semi-finals;Stade de France;Saint-Denis ;France;France;2;1;Croatia;France;Regular game time
+1998;1998-07-11; 21:00 ;Match for third place;Parc des Princes;Paris ;France;Netherlands;1;2;Croatia;Croatia;Regular game time
+1998;1998-07-12; 21:00 ;Final;Stade de France;Saint-Denis ;France;Brazil;0;3;France;France;Regular game time
+2002;2002-05-31; 20:30 ;Group A;Seoul World Cup Stadium;Seoul ;Korea/Japan;France;0;1;Senegal;Senegal;Regular game time
+2002;2002-06-01; 18:00 ;Group A;Munsu Football Stadium;Ulsan ;Korea/Japan;Uruguay;1;2;Denmark;Denmark;Regular game time
+2002;2002-06-01; 15:30 ;Group E;Niigata Stadium Big Swan;Niigata ;Korea/Japan;Republic of Ireland;1;1;Cameroon;Draw;Regular game time
+2002;2002-06-01; 20:30 ;Group E;Sapporo Dome;Sapporo ;Korea/Japan;Germany;8;0;Saudi Arabia;Germany;Regular game time
+2002;2002-06-02; 14:30 ;Group F;Kashima Stadium;Ibaraki ;Korea/Japan;Argentina;1;0;Nigeria;Argentina;Regular game time
+2002;2002-06-02; 16:30 ;Group B;Busan Asiad Main Stadium;Busan ;Korea/Japan;Paraguay;2;2;South Africa;Draw;Regular game time
+2002;2002-06-02; 18:30 ;Group F;Saitama Stadium 2002;Saitama ;Korea/Japan;England;1;1;Sweden;Draw;Regular game time
+2002;2002-06-02; 20:30 ;Group B;Gwangju World Cup Stadium;Gwangju ;Korea/Japan;Spain;3;1;Slovenia;Spain;Regular game time
+2002;2002-06-03; 18:00 ;Group C;Munsu Football Stadium;Ulsan ;Korea/Japan;Brazil;2;1;Turkey;Brazil;Regular game time
+2002;2002-06-03; 20:30 ;Group G;Sapporo Dome;Sapporo ;Korea/Japan;Italy;2;0;Ecuador;Italy;Regular game time
+2002;2002-06-03; 15:30 ;Group G;Niigata Stadium Big Swan;Niigata ;Korea/Japan;Croatia;0;1;Mexico;Mexico;Regular game time
+2002;2002-06-04; 15:30 ;Group C;Gwangju World Cup Stadium;Gwangju ;Korea/Japan;China PR;0;2;Costa Rica;Costa Rica;Regular game time
+2002;2002-06-04; 18:00 ;Group H;Saitama Stadium 2002;Saitama ;Korea/Japan;Japan;2;2;Belgium;Draw;Regular game time
+2002;2002-06-04; 20:30 ;Group D;Busan Asiad Main Stadium;Busan ;Korea/Japan;Korea Republic;2;0;Poland;Korea Republic;Regular game time
+2002;2002-06-05; 15:30 ;Group H;Kobe Wing Stadium;Kobe ;Korea/Japan;Russia;2;0;Tunisia;Russia;Regular game time
+2002;2002-06-05; 18:00 ;Group D;Suwon World Cup Stadium;Suwon ;Korea/Japan;USA;3;2;Portugal;USA;Regular game time
+2002;2002-06-05; 20:30 ;Group E;Kashima Stadium;Ibaraki ;Korea/Japan;Germany;1;1;Republic of Ireland;Draw;Regular game time
+2002;2002-06-06; 15:30 ;Group A;Daegu World Cup Stadium;Daegu ;Korea/Japan;Denmark;1;1;Senegal;Draw;Regular game time
+2002;2002-06-06; 18:00 ;Group E;Saitama Stadium 2002;Saitama ;Korea/Japan;Cameroon;1;0;Saudi Arabia;Cameroon;Regular game time
+2002;2002-06-06; 20:30 ;Group A;Busan Asiad Main Stadium;Busan ;Korea/Japan;France;0;0;Uruguay;Draw;Regular game time
+2002;2002-06-07; 15:30 ;Group F;Kobe Wing Stadium;Kobe ;Korea/Japan;Sweden;2;1;Nigeria;Sweden;Regular game time
+2002;2002-06-07; 20:30 ;Group F;Sapporo Dome;Sapporo ;Korea/Japan;Argentina;0;1;England;England;Regular game time
+2002;2002-06-07; 18:00 ;Group B;Jeonju World Cup Stadium;Jeonju ;Korea/Japan;Spain;3;1;Paraguay;Spain;Regular game time
+2002;2002-06-08; 15:30 ;Group B;Daegu World Cup Stadium;Daegu ;Korea/Japan;South Africa;1;0;Slovenia;South Africa;Regular game time
+2002;2002-06-08; 20:30 ;Group C;Jeju World Cup Stadium;Jeju ;Korea/Japan;Brazil;4;0;China PR;Brazil;Regular game time
+2002;2002-06-08; 18:00 ;Group G;Kashima Stadium;Ibaraki ;Korea/Japan;Italy;1;2;Croatia;Croatia;Regular game time
+2002;2002-06-09; 18:00 ;Group C;Incheon Football Stadium;Incheon ;Korea/Japan;Costa Rica;1;1;Turkey;Draw;Regular game time
+2002;2002-06-09; 20:30 ;Group H;International Stadium Yokohama;Yokohama ;Korea/Japan;Japan;1;0;Russia;Japan;Regular game time
+2002;2002-06-09; 15:30 ;Group G;Miyagi Stadium;Rifu ;Korea/Japan;Mexico;2;1;Ecuador;Mexico;Regular game time
+2002;2002-06-10; 15:30 ;Group D;Daegu World Cup Stadium;Daegu ;Korea/Japan;Korea Republic;1;1;USA;Draw;Regular game time
+2002;2002-06-10; 20:30 ;Group D;Jeonju World Cup Stadium;Jeonju ;Korea/Japan;Portugal;4;0;Poland;Portugal;Regular game time
+2002;2002-06-10; 18:00 ;Group H;Oita Stadium Big Eye;Oita ;Korea/Japan;Tunisia;1;1;Belgium;Draw;Regular game time
+2002;2002-06-11; 15:30 ;Group A;Incheon Football Stadium;Incheon ;Korea/Japan;Denmark;2;0;France;Denmark;Regular game time
+2002;2002-06-11; 15:30 ;Group A;Suwon World Cup Stadium;Suwon ;Korea/Japan;Senegal;3;3;Uruguay;Draw;Regular game time
+2002;2002-06-11; 20:30 ;Group E;International Stadium Yokohama;Yokohama ;Korea/Japan;Saudi Arabia;0;3;Republic of Ireland;Republic of Ireland;Regular game time
+2002;2002-06-11; 20:30 ;Group E;Shizuoka Stadium Ecopa;Shizuoka ;Korea/Japan;Cameroon;0;2;Germany;Germany;Regular game time
+2002;2002-06-12; 15:30 ;Group F;Miyagi Stadium;Rifu ;Korea/Japan;Sweden;1;1;Argentina;Draw;Regular game time
+2002;2002-06-12; 15:30 ;Group F;Osaka Nagai Stadium;Osaka ;Korea/Japan;Nigeria;0;0;England;Draw;Regular game time
+2002;2002-06-12; 20:30 ;Group B;Jeju World Cup Stadium;Jeju ;Korea/Japan;Slovenia;1;3;Paraguay;Paraguay;Regular game time
+2002;2002-06-12; 20:30 ;Group B;Daejeon World Cup Stadium;Daejeon ;Korea/Japan;South Africa;2;3;Spain;Spain;Regular game time
+2002;2002-06-13; 15:30 ;Group C;Suwon World Cup Stadium;Suwon ;Korea/Japan;Costa Rica;2;5;Brazil;Brazil;Regular game time
+2002;2002-06-13; 15:30 ;Group C;Seoul World Cup Stadium;Seoul ;Korea/Japan;Turkey;3;0;China PR;Turkey;Regular game time
+2002;2002-06-13; 20:30 ;Group G;International Stadium Yokohama;Yokohama ;Korea/Japan;Ecuador;1;0;Croatia;Ecuador;Regular game time
+2002;2002-06-13; 20:30 ;Group G;Oita Stadium Big Eye;Oita ;Korea/Japan;Mexico;1;1;Italy;Draw;Regular game time
+2002;2002-06-14; 15:30 ;Group H;Osaka Nagai Stadium;Osaka ;Korea/Japan;Tunisia;0;2;Japan;Japan;Regular game time
+2002;2002-06-14; 20:30 ;Group D;Incheon Football Stadium;Incheon ;Korea/Japan;Portugal;0;1;Korea Republic;Korea Republic;Regular game time
+2002;2002-06-14; 20:30 ;Group D;Daejeon World Cup Stadium;Daejeon ;Korea/Japan;Poland;3;1;USA;Poland;Regular game time
+2002;2002-06-14; 15:30 ;Group H;Shizuoka Stadium Ecopa;Shizuoka ;Korea/Japan;Belgium;3;2;Russia;Belgium;Regular game time
+2002;2002-06-15; 20:30 ;Round of 16;Niigata Stadium Big Swan;Niigata ;Korea/Japan;Denmark;0;3;England;England;Regular game time
+2002;2002-06-15; 15:30 ;Round of 16;Jeju World Cup Stadium;Jeju ;Korea/Japan;Germany;1;0;Paraguay;Germany;Regular game time
+2002;2002-06-16; 20:30 ;Round of 16;Suwon World Cup Stadium;Suwon ;Korea/Japan;Spain;1;1;Republic of Ireland;Spain;Penalties (3-2)
+2002;2002-06-16; 15:30 ;Round of 16;Oita Stadium Big Eye;Oita ;Korea/Japan;Sweden;1;2;Senegal;Senegal;Golden Goal
+2002;2002-06-17; 20:30 ;Round of 16;Kobe Wing Stadium;Kobe ;Korea/Japan;Brazil;2;0;Belgium;Brazil;Regular game time
+2002;2002-06-17; 15:30 ;Round of 16;Jeonju World Cup Stadium;Jeonju ;Korea/Japan;Mexico;0;2;USA;USA;Regular game time
+2002;2002-06-18; 15:30 ;Round of 16;Miyagi Stadium;Rifu ;Korea/Japan;Japan;0;1;Turkey;Turkey;Regular game time
+2002;2002-06-18; 20:30 ;Round of 16;Daejeon World Cup Stadium;Daejeon ;Korea/Japan;Korea Republic;2;1;Italy;Korea Republic;Golden Goal
+2002;2002-06-21; 15:30 ;Quarter-finals;Shizuoka Stadium Ecopa;Shizuoka ;Korea/Japan;England;1;2;Brazil;Brazil;Regular game time
+2002;2002-06-21; 20:30 ;Quarter-finals;Munsu Football Stadium;Ulsan ;Korea/Japan;Germany;1;0;USA;Germany;Regular game time
+2002;2002-06-22; 20:30 ;Quarter-finals;Osaka Nagai Stadium;Osaka ;Korea/Japan;Senegal;0;1;Turkey;Turkey;Golden Goal
+2002;2002-06-22; 15:30 ;Quarter-finals;Gwangju World Cup Stadium;Gwangju ;Korea/Japan;Spain;0;0;Korea Republic;Korea Republic;Penalties (5-3)
+2002;2002-06-25; 20:30 ;Semi-finals;Seoul World Cup Stadium;Seoul ;Korea/Japan;Germany;1;0;Korea Republic;Germany;Regular game time
+2002;2002-06-26; 20:30 ;Semi-finals;Saitama Stadium 2002;Saitama ;Korea/Japan;Brazil;1;0;Turkey;Brazil;Regular game time
+2002;2002-06-29; 20:00 ;Third place;Daegu World Cup Stadium;Daegu ;Korea/Japan;Korea Republic;2;3;Turkey;Turkey;Regular game time
+2002;2002-06-30; 20:00 ;Final;International Stadium Yokohama;Yokohama ;Korea/Japan;Germany;0;2;Brazil;Brazil;Regular game time
+2006;2006-06-09; 18:00 ;Group A;FIFA World Cup Stadium, Munich;Munich ;Germany;Germany;4;2;Costa Rica;Germany;Regular game time
+2006;2006-06-09; 21:00 ;Group A;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;Poland;0;2;Ecuador;Ecuador;Regular game time
+2006;2006-06-10; 15:00 ;Group B;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;England;1;0;Paraguay;England;Regular game time
+2006;2006-06-10; 18:00 ;Group B;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Trinidad and Tobago;0;0;Sweden;Draw;Regular game time
+2006;2006-06-10; 21:00 ;Group C;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Argentina;2;1;Cote d'lvoire;Argentina;Regular game time
+2006;2006-06-11; 15:00 ;Group C;Zentralstadion;Leipzig ;Germany;Serbia and Montenegro;0;1;Netherlands;Netherlands;Regular game time
+2006;2006-06-11; 18:00 ;Group D;Franken-Stadion;Nuremberg ;Germany;Mexico;3;1;Iran;Mexico;Regular game time
+2006;2006-06-11; 21:00 ;Group D;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Angola;0;1;Portugal;Portugal;Regular game time
+2006;2006-06-12; 15:00 ;Group F;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Australia;3;1;Japan;Australia;Regular game time
+2006;2006-06-12; 18:00 ;Group E;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;USA;0;3;Czech Republic;Czech Republic;Regular game time
+2006;2006-06-12; 21:00 ;Group E;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Italy;2;0;Ghana;Italy;Regular game time
+2006;2006-06-13; 15:00 ;Group G;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;Korea Republic;2;1;Togo;Korea Republic;Regular game time
+2006;2006-06-13; 18:00 ;Group G;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;France;0;0;Switzerland;Draw;Regular game time
+2006;2006-06-13; 21:00 ;Group F;Olympiastadion;Berlin ;Germany;Brazil;1;0;Croatia;Brazil;Regular game time
+2006;2006-06-14; 15:00 ;Group H;Zentralstadion;Leipzig ;Germany;Spain;4;0;Ukraine;Spain;Regular game time
+2006;2006-06-14; 18:00 ;Group H;FIFA World Cup Stadium, Munich;Munich ;Germany;Tunisia;2;2;Saudi Arabia;Draw;Regular game time
+2006;2006-06-14; 21:00 ;Group A;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Germany;1;0;Poland;Germany;Regular game time
+2006;2006-06-15; 15:00 ;Group A;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Ecuador;3;0;Costa Rica;Ecuador;Regular game time
+2006;2006-06-15; 18:00 ;Group B;Franken-Stadion;Nuremberg ;Germany;England;2;0;Trinidad and Tobago;England;Regular game time
+2006;2006-06-15; 21:00 ;Group B;Olympiastadion;Berlin ;Germany;Sweden;1;0;Paraguay;Sweden;Regular game time
+2006;2006-06-16; 15:00 ;Group C;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;Argentina;6;0;Serbia and Montenegro;Argentina;Regular game time
+2006;2006-06-16; 18:00 ;Group C;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;Netherlands;2;1;Cote d'lvoire;Netherlands;Regular game time
+2006;2006-06-16; 21:00 ;Group D;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Mexico;0;0;Angola;Draw;Regular game time
+2006;2006-06-17; 15:00 ;Group D;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;Portugal;2;0;IR Iran;Portugal;Regular game time
+2006;2006-06-17; 18:00 ;Group E;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Czech Republic;0;2;Ghana;Ghana;Regular game time
+2006;2006-06-17; 21:00 ;Group E;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Italy;1;1;USA;Draw;Regular game time
+2006;2006-06-18; 15:00 ;Group F;Franken-Stadion;Nuremberg ;Germany;Japan;0;0;Croatia;Draw;Regular game time
+2006;2006-06-18; 18:00 ;Group F;FIFA World Cup Stadium, Munich;Munich ;Germany;Brazil;2;0;Australia;Brazil;Regular game time
+2006;2006-06-18; 21:00 ;Group G;Zentralstadion;Leipzig ;Germany;France;1;1;Korea Republic;Draw;Regular game time
+2006;2006-06-19; 15:00 ;Group G;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Togo;0;2;Switzerland;Switzerland;Regular game time
+2006;2006-06-19; 18:00 ;Group H;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Saudi Arabia;0;4;Ukraine;Ukraine;Regular game time
+2006;2006-06-19; 21:00 ;Group H;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;Spain;3;1;Tunisia;Spain;Regular game time
+2006;2006-06-20; 16:00 ;Group A;Olympiastadion;Berlin ;Germany;Ecuador;0;3;Germany;Germany;Regular game time
+2006;2006-06-20; 16:00 ;Group A;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Costa Rica;1;2;Poland;Poland;Regular game time
+2006;2006-06-20; 21:00 ;Group B;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Sweden;2;2;England;Draw;Regular game time
+2006;2006-06-20; 21:00 ;Group B;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Paraguay;2;0;Trinidad and Tobago;Paraguay;Regular game time
+2006;2006-06-21; 16:00 ;Group D;Zentralstadion;Leipzig ;Germany;Iran;1;1;Angola;Draw;Regular game time
+2006;2006-06-21; 16:00 ;Group D;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;Portugal;2;1;Mexico;Portugal;Regular game time
+2006;2006-06-21; 21:00 ;Group C;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;Netherlands;0;0;Argentina;Draw;Regular game time
+2006;2006-06-21; 21:00 ;Group C;FIFA World Cup Stadium, Munich;Munich ;Germany;Cote d'lvoire;3;2;Serbia and Montenegro;Cote d'lvoire;Regular game time
+2006;2006-06-22; 16:00 ;Group E;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Czech Republic;0;2;Italy;Italy;Regular game time
+2006;2006-06-22; 16:00 ;Group E;Franken-Stadion;Nuremberg ;Germany;Ghana;2;1;USA;Ghana;Regular game time
+2006;2006-06-22; 21:00 ;Group F;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Japan;1;4;Brazil;Brazil;Regular game time
+2006;2006-06-22; 21:00 ;Group F;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;Croatia;2;2;Australia;Draw;Regular game time
+2006;2006-06-23; 16:00 ;Group H;Olympiastadion;Berlin ;Germany;Ukraine;1;0;Tunisia;Ukraine;Regular game time
+2006;2006-06-23; 16:00 ;Group H;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Saudi Arabia;0;1;Spain;Spain;Regular game time
+2006;2006-06-23; 21:00 ;Group G;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Togo;0;2;France;France;Regular game time
+2006;2006-06-23; 21:00 ;Group G;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Switzerland;2;0;Korea Republic;Switzerland;Regular game time
+2006;2006-06-24; 17:00 ;Round of 16;FIFA World Cup Stadium, Munich;Munich ;Germany;Germany;2;0;Sweden;Germany;Regular game time
+2006;2006-06-24; 21:00 ;Round of 16;Zentralstadion;Leipzig ;Germany;Argentina;2;1;Mexico;Argentina;Extra Time
+2006;2006-06-25; 17:00 ;Round of 16;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;England;1;0;Ecuador;England;Regular game time
+2006;2006-06-25; 21:00 ;Round of 16;Franken-Stadion;Nuremberg ;Germany;Portugal;1;0;Netherlands;Portugal;Regular game time
+2006;2006-06-26; 17:00 ;Round of 16;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Italy;1;0;Australia;Italy;Regular game time
+2006;2006-06-26; 21:00 ;Round of 16;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Switzerland;0;0;Ukraine;Ukraine;Penalties (3-0)
+2006;2006-06-27; 17:00 ;Round of 16;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Brazil;3;0;Ghana;Brazil;Regular game time
+2006;2006-06-27; 21:00 ;Round of 16;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Spain;1;3;France;France;Regular game time
+2006;2006-06-30; 17:00 ;Quarter-finals;Olympiastadion;Berlin ;Germany;Germany;1;1;Argentina;Germany;Penalties (4-2)
+2006;2006-06-30; 21:00 ;Quarter-finals;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Italy;3;0;Ukraine;Italy;Regular game time
+2006;2006-07-01; 17:00 ;Quarter-finals;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;England;0;0;Portugal;Portugal;Penalties (3-1)
+2006;2006-07-01; 21:00 ;Quarter-finals;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;Brazil;0;1;France;France;Regular game time
+2006;2006-07-04; 21:00 ;Semi-finals;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Germany;0;2;Italy;Italy;Extra Time
+2006;2006-07-05; 21:00 ;Semi-finals;FIFA World Cup Stadium, Munich;Munich ;Germany;Portugal;0;1;France;France;Regular game time
+2006;2006-07-08; 21:00 ;Third place;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;Germany;3;1;Portugal;Germany;Regular game time
+2006;2006-07-09; 20:00 ;Final;Olympiastadion;Berlin ;Germany;Italy;1;1;France;Italy;Penalties (5-3)
+2010;2010-06-11; 16:00 ;Group A;Soccer City Stadium;Johannesburg ;South Africa;South Africa;1;1;Mexico;Draw;Regular game time
+2010;2010-06-11; 20:30 ;Group A;Cape Town Stadium;Cape Town ;South Africa;Uruguay;0;0;France;Draw;Regular game time
+2010;2010-06-12; 13:30 ;Group B;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Korea Republic;2;0;Greece;Korea Republic;Regular game time
+2010;2010-06-12; 16:00 ;Group B;Ellis Park Stadium;Johannesburg ;South Africa;Argentina;1;0;Nigeria;Argentina;Regular game time
+2010;2010-06-12; 20:30 ;Group C;Royal Bafokeng Sports Palace;Phokeng ;South Africa;England;1;1;USA;Draw;Regular game time
+2010;2010-06-13; 13:30 ;Group C;Peter Mokaba Stadium;Polokwane ;South Africa;Algeria;0;1;Slovenia;Slovenia;Regular game time
+2010;2010-06-13; 16:00 ;Group D;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;Serbia;0;1;Ghana;Ghana;Regular game time
+2010;2010-06-13; 20:30 ;Group D;Durban Stadium;Durban ;South Africa;Germany;4;0;Australia;Germany;Regular game time
+2010;2010-06-14; 13:30 ;Group E;Soccer City Stadium;Johannesburg ;South Africa;Netherlands;2;0;Denmark;Netherlands;Regular game time
+2010;2010-06-14; 16:00 ;Group E;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Japan;1;0;Cameroon;Japan;Regular game time
+2010;2010-06-14; 20:30 ;Group F;Cape Town Stadium;Cape Town ;South Africa;Italy;1;1;Paraguay;Draw;Regular game time
+2010;2010-06-15; 13:30 ;Group F;Royal Bafokeng Sports Palace;Phokeng ;South Africa;New Zealand;1;1;Slovakia;Draw;Regular game time
+2010;2010-06-15; 16:00 ;Group G;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Cote d'lvoire;0;0;Portugal;Draw;Regular game time
+2010;2010-06-15; 20:30 ;Group G;Ellis Park Stadium;Johannesburg ;South Africa;Brazil;2;1;Korea DPR;Brazil;Regular game time
+2010;2010-06-16; 13:30 ;Group H;Mbombela Stadium;Nelspruit ;South Africa;Honduras;0;1;Chile;Chile;Regular game time
+2010;2010-06-16; 16:00 ;Group H;Durban Stadium;Durban ;South Africa;Spain;0;1;Switzerland;Switzerland;Regular game time
+2010;2010-06-16; 20:30 ;Group A;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;South Africa;0;3;Uruguay;Uruguay;Regular game time
+2010;2010-06-17; 13:30 ;Group B;Soccer City Stadium;Johannesburg ;South Africa;Argentina;4;1;Korea Republic;Argentina;Regular game time
+2010;2010-06-17; 16:00 ;Group B;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Greece;2;1;Nigeria;Greece;Regular game time
+2010;2010-06-17; 20:30 ;Group A;Peter Mokaba Stadium;Polokwane ;South Africa;France;0;2;Mexico;Mexico;Regular game time
+2010;2010-06-18; 13:30 ;Group D;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Germany;0;1;Serbia;Serbia;Regular game time
+2010;2010-06-18; 16:00 ;Group C;Ellis Park Stadium;Johannesburg ;South Africa;Slovenia;2;2;USA;Draw;Regular game time
+2010;2010-06-18; 20:30 ;Group C;Cape Town Stadium;Cape Town ;South Africa;England;0;0;Algeria;Draw;Regular game time
+2010;2010-06-19; 13:30 ;Group E;Durban Stadium;Durban ;South Africa;Netherlands;1;0;Japan;Netherlands;Regular game time
+2010;2010-06-19; 16:00 ;Group D;Royal Bafokeng Sports Palace;Phokeng ;South Africa;Ghana;1;1;Australia;Draw;Regular game time
+2010;2010-06-19; 20:30 ;Group E;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;Cameroon;1;2;Denmark;Denmark;Regular game time
+2010;2010-06-20; 13:30 ;Group F;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Slovakia;0;2;Paraguay;Paraguay;Regular game time
+2010;2010-06-20; 16:00 ;Group F;Mbombela Stadium;Nelspruit ;South Africa;Italy;1;1;New Zealand;Draw;Regular game time
+2010;2010-06-20; 20:30 ;Group G;Soccer City Stadium;Johannesburg ;South Africa;Brazil;3;1;Cote d'lvoire;Brazil;Regular game time
+2010;2010-06-21; 13:30 ;Group G;Cape Town Stadium;Cape Town ;South Africa;Portugal;7;0;Korea DPR;Portugal;Regular game time
+2010;2010-06-21; 16:00 ;Group H;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Chile;1;0;Switzerland;Chile;Regular game time
+2010;2010-06-21; 20:30 ;Group H;Ellis Park Stadium;Johannesburg ;South Africa;Spain;2;0;Honduras;Spain;Regular game time
+2010;2010-06-22; 16:00 ;Group A;Royal Bafokeng Sports Palace;Phokeng ;South Africa;Mexico;0;1;Uruguay;Uruguay;Regular game time
+2010;2010-06-22; 16:00 ;Group A;Free State Stadium;Mangaung/Bloemfontein ;South Africa;France;1;2;South Africa;South Africa;Regular game time
+2010;2010-06-22; 20:30 ;Group B;Durban Stadium;Durban ;South Africa;Nigeria;2;2;Korea Republic;Draw;Regular game time
+2010;2010-06-22; 20:30 ;Group B;Peter Mokaba Stadium;Polokwane ;South Africa;Greece;0;2;Argentina;Argentina;Regular game time
+2010;2010-06-23; 16:00 ;Group C;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Slovenia;0;1;England;England;Regular game time
+2010;2010-06-23; 16:00 ;Group C;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;USA;1;0;Algeria;USA;Regular game time
+2010;2010-06-23; 20:30 ;Group D;Soccer City Stadium;Johannesburg ;South Africa;Ghana;0;1;Germany;Germany;Regular game time
+2010;2010-06-23; 20:30 ;Group D;Mbombela Stadium;Nelspruit ;South Africa;Australia;2;1;Serbia;Australia;Regular game time
+2010;2010-06-24; 16:00 ;Group F;Ellis Park Stadium;Johannesburg ;South Africa;Slovakia;3;2;Italy;Slovakia;Regular game time
+2010;2010-06-24; 16:00 ;Group F;Peter Mokaba Stadium;Polokwane ;South Africa;Paraguay;0;0;New Zealand;Draw;Regular game time
+2010;2010-06-24; 20:30 ;Group E;Royal Bafokeng Sports Palace;Phokeng ;South Africa;Denmark;1;3;Japan;Japan;Regular game time
+2010;2010-06-24; 20:30 ;Group E;Cape Town Stadium;Cape Town ;South Africa;Cameroon;1;2;Netherlands;Netherlands;Regular game time
+2010;2010-06-25; 16:00 ;Group G;Durban Stadium;Durban ;South Africa;Portugal;0;0;Brazil;Draw;Regular game time
+2010;2010-06-25; 16:00 ;Group G;Mbombela Stadium;Nelspruit ;South Africa;Korea DPR;0;3;Cote d'lvoire;Cote d'lvoire;Regular game time
+2010;2010-06-25; 20:30 ;Group H;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;Chile;1;2;Spain;Spain;Regular game time
+2010;2010-06-25; 20:30 ;Group H;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Switzerland;0;0;Honduras;Draw;Regular game time
+2010;2010-06-26; 16:00 ;Round of 16;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Uruguay;2;1;Korea Republic;Uruguay;Regular game time
+2010;2010-06-26; 20:30 ;Round of 16;Royal Bafokeng Sports Palace;Phokeng ;South Africa;USA;1;2;Ghana;Ghana;Extra Time
+2010;2010-06-27; 16:00 ;Round of 16;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Germany;4;1;England;Germany;Regular game time
+2010;2010-06-27; 20:30 ;Round of 16;Soccer City Stadium;Johannesburg ;South Africa;Argentina;3;1;Mexico;Argentina;Regular game time
+2010;2010-06-28; 16:00 ;Round of 16;Durban Stadium;Durban ;South Africa;Netherlands;2;1;Slovakia;Netherlands;Regular game time
+2010;2010-06-28; 20:30 ;Round of 16;Ellis Park Stadium;Johannesburg ;South Africa;Brazil;3;0;Chile;Brazil;Regular game time
+2010;2010-06-29; 16:00 ;Round of 16;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;Paraguay;0;0;Japan;Paraguay;Penalties (5-3)
+2010;2010-06-29; 20:30 ;Round of 16;Cape Town Stadium;Cape Town ;South Africa;Spain;1;0;Portugal;Spain;Regular game time
+2010;2010-07-02; 16:00 ;Quarter-finals;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Netherlands;2;1;Brazil;Netherlands;Regular game time
+2010;2010-07-02; 20:30 ;Quarter-finals;Soccer City Stadium;Johannesburg ;South Africa;Uruguay;1;1;Ghana;Uruguay;Penalties (4-2)
+2010;2010-07-03; 16:00 ;Quarter-finals;Cape Town Stadium;Cape Town ;South Africa;Argentina;0;4;Germany;Germany;Regular game time
+2010;2010-07-03; 20:30 ;Quarter-finals;Ellis Park Stadium;Johannesburg ;South Africa;Paraguay;0;1;Spain;Spain;Regular game time
+2010;2010-07-06; 20:30 ;Semi-finals;Cape Town Stadium;Cape Town ;South Africa;Uruguay;2;3;Netherlands;Netherlands;Regular game time
+2010;2010-07-07; 20:30 ;Semi-finals;Durban Stadium;Durban ;South Africa;Germany;0;1;Spain;Spain;Regular game time
+2010;2010-07-10; 20:30 ;Match for third place;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Uruguay;2;3;Germany;Germany;Regular game time
+2010;2010-07-11; 20:30 ;Final;Soccer City Stadium;Johannesburg ;South Africa;Netherlands;0;1;Spain;Spain;Extra Time
+2014;2014-06-12; 17:00 ;Group A;Arena de Sao Paulo;Sao Paulo ;Brazil;Brazil;3;1;Croatia;Brazil;Regular game time
+2014;2014-06-13; 13:00 ;Group A;Estadio das Dunas;Natal ;Brazil;Mexico;1;0;Cameroon;Mexico;Regular game time
+2014;2014-06-13; 16:00 ;Group B;Arena Fonte Nova;Salvador ;Brazil;Spain;1;5;Netherlands;Netherlands;Regular game time
+2014;2014-06-13; 18:00 ;Group B;Arena Pantanal;Cuiaba ;Brazil;Chile;3;1;Australia;Chile;Regular game time
+2014;2014-06-14; 13:00 ;Group C;Estadio Mineirao;Belo Horizonte ;Brazil;Colombia;3;0;Greece;Colombia;Regular game time
+2014;2014-06-14; 16:00 ;Group D;Estadio Castelao;Fortaleza ;Brazil;Uruguay;1;3;Costa Rica;Costa Rica;Regular game time
+2014;2014-06-14; 18:00 ;Group D;Arena Amazonia;Manaus ;Brazil;England;1;2;Italy;Italy;Regular game time
+2014;2014-06-14; 22:00 ;Group C;Arena Pernambuco;Recife ;Brazil;Cote d'lvoire;2;1;Japan;Cote d'lvoire;Regular game time
+2014;2014-06-15; 13:00 ;Group E;Estadio Nacional;Brasilia ;Brazil;Switzerland;2;1;Ecuador;Switzerland;Regular game time
+2014;2014-06-15; 16:00 ;Group E;Estadio Beira-Rio;Porto Alegre ;Brazil;France;3;0;Honduras;France;Regular game time
+2014;2014-06-15; 19:00 ;Group F;Estadio do Maracana;Rio De Janeiro ;Brazil;Argentina;2;1;Bosnia and Herzegovina;Argentina;Regular game time
+2014;2014-06-16; 13:00 ;Group G;Arena Fonte Nova;Salvador ;Brazil;Germany;4;0;Portugal;Germany;Regular game time
+2014;2014-06-16; 16:00 ;Group F;Arena da Baixada;Curitiba ;Brazil;IR Iran;0;0;Nigeria;Draw;Regular game time
+2014;2014-06-16; 19:00 ;Group G;Estadio das Dunas;Natal ;Brazil;Ghana;1;2;USA;USA;Regular game time
+2014;2014-06-17; 13:00 ;Group H;Estadio Mineirao;Belo Horizonte ;Brazil;Belgium;2;1;Algeria;Belgium;Regular game time
+2014;2014-06-17; 16:00 ;Group A;Estadio Castelao;Fortaleza ;Brazil;Brazil;0;0;Mexico;Draw;Regular game time
+2014;2014-06-17; 18:00 ;Group H;Arena Pantanal;Cuiaba ;Brazil;Russia;1;1;Korea Republic;Draw;Regular game time
+2014;2014-06-18; 13:00 ;Group B;Estadio Beira-Rio;Porto Alegre ;Brazil;Australia;2;3;Netherlands;Netherlands;Regular game time
+2014;2014-06-18; 16:00 ;Group B;Estadio do Maracana;Rio De Janeiro ;Brazil;Spain;0;2;Chile;Chile;Regular game time
+2014;2014-06-18; 18:00 ;Group A;Arena Amazonia;Manaus ;Brazil;Cameroon;0;4;Croatia;Croatia;Regular game time
+2014;2014-06-19; 13:00 ;Group C;Estadio Nacional;Brasilia ;Brazil;Colombia;2;1;Cote d'lvoire;Colombia;Regular game time
+2014;2014-06-19; 16:00 ;Group D;Arena de Sao Paulo;Sao Paulo ;Brazil;Uruguay;2;1;England;Uruguay;Regular game time
+2014;2014-06-19; 19:00 ;Group C;Estadio das Dunas;Natal ;Brazil;Japan;0;0;Greece;Draw;Regular game time
+2014;2014-06-20; 13:00 ;Group D;Arena Pernambuco;Recife ;Brazil;Italy;0;1;Costa Rica;Costa Rica;Regular game time
+2014;2014-06-20; 16:00 ;Group E;Arena Fonte Nova;Salvador ;Brazil;Switzerland;2;5;France;France;Regular game time
+2014;2014-06-20; 19:00 ;Group E;Arena da Baixada;Curitiba ;Brazil;Honduras;1;2;Ecuador;Ecuador;Regular game time
+2014;2014-06-21; 13:00 ;Group F;Estadio Mineirao;Belo Horizonte ;Brazil;Argentina;1;0;IR Iran;Argentina;Regular game time
+2014;2014-06-21; 16:00 ;Group G;Estadio Castelao;Fortaleza ;Brazil;Germany;2;2;Ghana;Draw;Regular game time
+2014;2014-06-21; 18:00 ;Group F;Arena Pantanal;Cuiaba ;Brazil;Nigeria;1;0;Bosnia and Herzegovina;Nigeria;Regular game time
+2014;2014-06-22; 13:00 ;Group H;Estadio do Maracana;Rio De Janeiro ;Brazil;Belgium;1;0;Russia;Belgium;Regular game time
+2014;2014-06-22; 16:00 ;Group H;Estadio Beira-Rio;Porto Alegre ;Brazil;Korea Republic;2;4;Algeria;Algeria;Regular game time
+2014;2014-06-22; 18:00 ;Group G;Arena Amazonia;Manaus ;Brazil;USA;2;2;Portugal;Draw;Regular game time
+2014;2014-06-23; 13:00 ;Group B;Arena da Baixada;Curitiba ;Brazil;Australia;0;3;Spain;Spain;Regular game time
+2014;2014-06-23; 13:00 ;Group B;Arena de Sao Paulo;Sao Paulo ;Brazil;Netherlands;2;0;Chile;Netherlands;Regular game time
+2014;2014-06-23; 17:00 ;Group A;Estadio Nacional;Brasilia ;Brazil;Cameroon;1;4;Brazil;Brazil;Regular game time
+2014;2014-06-23; 17:00 ;Group A;Arena Pernambuco;Recife ;Brazil;Croatia;1;3;Mexico;Mexico;Regular game time
+2014;2014-06-24; 13:00 ;Group D;Estadio das Dunas;Natal ;Brazil;Italy;0;1;Uruguay;Uruguay;Regular game time
+2014;2014-06-24; 13:00 ;Group D;Estadio Mineirao;Belo Horizonte ;Brazil;Costa Rica;0;0;England;Draw;Regular game time
+2014;2014-06-24; 16:00 ;Group C;Arena Pantanal;Cuiaba ;Brazil;Japan;1;4;Colombia;Colombia;Regular game time
+2014;2014-06-24; 17:00 ;Group C;Estadio Castelao;Fortaleza ;Brazil;Greece;2;1;Cote d'lvoire;Greece;Regular game time
+2014;2014-06-25; 13:00 ;Group F;Estadio Beira-Rio;Porto Alegre ;Brazil;Nigeria;2;3;Argentina;Argentina;Regular game time
+2014;2014-06-25; 13:00 ;Group F;Arena Fonte Nova;Salvador ;Brazil;Bosnia and Herzegovina;3;1;IR Iran;Bosnia and Herzegovina;Regular game time
+2014;2014-06-25; 16:00 ;Group E;Arena Amazonia;Manaus ;Brazil;Honduras;0;3;Switzerland;Switzerland;Regular game time
+2014;2014-06-25; 17:00 ;Group E;Estadio do Maracana;Rio De Janeiro ;Brazil;Ecuador;0;0;France;Draw;Regular game time
+2014;2014-06-26; 13:00 ;Group G;Arena Pernambuco;Recife ;Brazil;USA;0;1;Germany;Germany;Regular game time
+2014;2014-06-26; 13:00 ;Group G;Estadio Nacional;Brasilia ;Brazil;Portugal;2;1;Ghana;Portugal;Regular game time
+2014;2014-06-26; 17:00 ;Group H;Arena de Sao Paulo;Sao Paulo ;Brazil;Korea Republic;0;1;Belgium;Belgium;Regular game time
+2014;2014-06-26; 17:00 ;Group H;Arena da Baixada;Curitiba ;Brazil;Algeria;1;1;Russia;Draw;Regular game time
+2014;2014-06-28; 13:00 ;Round of 16;Estadio Mineirao;Belo Horizonte ;Brazil;Brazil;1;1;Chile;Brazil;Penalties (3-2)
+2014;2014-06-28; 17:00 ;Round of 16;Estadio do Maracana;Rio De Janeiro ;Brazil;Colombia;2;0;Uruguay;Colombia;Regular game time
+2014;2014-06-29; 13:00 ;Round of 16;Estadio Castelao;Fortaleza ;Brazil;Netherlands;2;1;Mexico;Netherlands;Regular game time
+2014;2014-06-29; 17:00 ;Round of 16;Arena Pernambuco;Recife ;Brazil;Costa Rica;1;1;Greece;Costa Rica;Penalties (5-3)
+2014;2014-06-30; 13:00 ;Round of 16;Estadio Nacional;Brasilia ;Brazil;France;2;0;Nigeria;France;Regular game time
+2014;2014-06-30; 17:00 ;Round of 16;Estadio Beira-Rio;Porto Alegre ;Brazil;Germany;2;1;Algeria;Germany;Extra Time
+2014;2014-07-01; 13:00 ;Round of 16;Arena de Sao Paulo;Sao Paulo ;Brazil;Argentina;1;0;Switzerland;Argentina;Extra Time
+2014;2014-07-01; 17:00 ;Round of 16;Arena Fonte Nova;Salvador ;Brazil;Belgium;2;1;USA;Belgium;Extra Time
+2014;2014-07-04; 13:00 ;Quarter-finals;Estadio do Maracana;Rio De Janeiro ;Brazil;France;0;1;Germany;Germany;Regular game time
+2014;2014-07-04; 17:00 ;Quarter-finals;Estadio Castelao;Fortaleza ;Brazil;Brazil;2;1;Colombia;Brazil;Regular game time
+2014;2014-07-05; 13:00 ;Quarter-finals;Estadio Nacional;Brasilia ;Brazil;Argentina;1;0;Belgium;Argentina;Regular game time
+2014;2014-07-05; 17:00 ;Quarter-finals;Arena Fonte Nova;Salvador ;Brazil;Netherlands;0;0;Costa Rica;Netherlands;Penalties (4-3)
+2014;2014-07-08; 17:00 ;Semi-finals;Estadio Mineirao;Belo Horizonte ;Brazil;Brazil;1;7;Germany;Germany;Regular game time
+2014;2014-07-09; 17:00 ;Semi-finals;Arena de Sao Paulo;Sao Paulo ;Brazil;Netherlands;0;0;Argentina;Argentina;Penalties (4-2)
+2014;2014-07-12; 17:00 ;Play-off for third place;Estadio Nacional;Brasilia ;Brazil;Brazil;0;3;Netherlands;Netherlands;Regular game time
+2014;2014-07-13; 16:00 ;Final;Estadio do Maracana;Rio De Janeiro ;Brazil;Germany;1;0;Argentina;Germany;Extra Time
+2018;2018-06-14;18:00;Group A;Luzhniki Stadium;Moscow;Russia;Russia;5;0;Saudi Arabia;Russia;Regular game time
+2018;2018-06-15;17:00;Group A;Ekaterinburg Arena;Yekaterinburg;Russia;Egypt;0;1;Uruguay;Uruguay;Regular game time
+2018;2018-06-15;18:00;Group B;Krestovsky Stadium;Saint Petersburg;Russia;Marocco;0;1;Iran;Iran;Regular game time
+2018;2018-06-15;21:00;Group B;Fisht Olympic Stadium;Sochi;Russia;Portugal;3;3;Spain;Draw;Regular game time
+2018;2018-06-16;13:00;Group C;Ak Bars Arena;Kazan;Russia;France;2;1;Australia;France;Regular game time
+2018;2018-06-16;16:00;Group D;Otkrytiye Arena;Moscow;Russia;Argentina;1;1;Iceland;Draw;Regular game time
+2018;2018-06-16;19:00;Group C;Mordovia Arena;Saransk;Russia;Peru;0;1;Denmark;Denmark;Regular game time
+2018;2018-06-16;21:00;Group D;Kaliningrad Stadium;Kaliningrad;Russia;Croatia;2;0;Nigeria;Croatia;Regular game time
+2018;2018-06-17;16:00;Group E;Samara Arena;Samara;Russia;Costa Rica;0;1;Serbia;Serbia;Regular game time
+2018;2018-06-17;18:00;Group F;Luzhniki Stadium;Moscow;Russia;Germany;0;1;Mexico;Mexico;Regular game time
+2018;2018-06-17;21:00;Group E;Rostov Arena;Rostov-on-Don;Russia;Brazil;1;1;Switzerland;Draw;Regular game time
+2018;2018-06-18;15:00;Group F;Nihzny Novgorod Stadium;Nizhny Novgorod;Russia;Sweden;1;0;Korea Republic;Sweden;Regular game time
+2018;2018-06-18;18:00;Group G;Fisht Olympic Stadium;Sochi;Russia;Belgium;3;0;Panama;Belgium;Regular game time
+2018;2018-06-18;21:00;Group G;Central Stadium;Yekaterinburg;Russia;Tunisia;1;2;England;England;Regular game time
+2018;2018-06-19;15:00;Group H;Mordovia Arena;Saransk;Russia;Colombia;1;2;Japan;Japan;Regular game time
+2018;2018-06-19;18:00;Group H;Otkrytiye Arena;Moscow;Russia;Poland;1;2;Senegal;Senegal;Regular game time
+2018;2018-06-19;21:00;Group A;Krestovsky Stadium;Saint Petersburg;Russia;Russia;3;1;Egypt;Russia;Regular game time
+2018;2018-06-20;15:00;Group B;Luzhniki Stadium;Moscow;Russia;Portugal;1;0;Morocco;Portugal;Regular game time
+2018;2018-06-20;18:00;Group A;Rostov Arena;Rostov-on-Don;Russia;Uruguay;1;0;Saudi Arabia;Uruguay;Regular game time
+2018;2018-06-20;21:00;Group B;Ak Bars Arena;Kazan;Russia;Iran;0;1;Spain;Spain;Regular game time
+2018;2018-06-21;16:00;Group C;Samara Arena;Samara;Russia;Denmark;1;1;Australia;Draw;Regular game time
+2018;2018-06-21;20:00;Group C;Ekaterinburg Arena;Yekaterinburg;Russia;France;1;0;Peru;France;Regular game time
+2018;2018-06-21;21:00;Group D;Nihzny Novgorod Stadium;Nizhny Novgorod;Russia;Argentina;0;3;Croatia;Croatia;Regular game time
+2018;2018-06-22;15:00;Group E;Krestovsky Stadium;Saint Petersburg;Russia;Brazil;2;0;Costa Rica;Brazil;Regular game time
+2018;2018-06-22;18:00;Group D;Central Stadium;Yekaterinburg;Russia;Nigeria;2;0;Iceland;Nigeria;Regular game time
+2018;2018-06-22;20:00;Group E;Kaliningrad Stadium;Kaliningrad;Russia;Serbia;1;2;Switzerland;Switzerland;Regular game time
+2018;2018-06-23;15:00;Group G;Otkrytiye Arena;Moscow;Russia;Belgium;5;2;Tunisia;Belgium;Regular game time
+2018;2018-06-23;18:00;Group F;Rostov Arena;Rostov-on-Don;Russia;Korea Republic;1;2;Mexico;Mexico;Regular game time
+2018;2018-06-23;21:00;Group F;Fisht Olympic Stadium;Sochi;Russia;Germany;2;1;Sweden;Germany;Regular game time
+2018;2018-06-24;15:00;Group G;Nihzny Novgorod Stadium;Nizhny Novgorod;Russia;England;6;1;Panama;England;Regular game time
+2018;2018-06-24;20:00;Group H;Ekaterinburg Arena;Yekaterinburg;Russia;Japan;2;2;Senegal;Draw;Regular game time
+2018;2018-06-24;21:00;Group H;Ak Bars Arena;Kazan;Russia;Poland;0;3;Colombia;Colombia;Regular game time
+2018;2018-06-25;17:00;Group A;Central Stadium;Yekaterinburg;Russia;Saudi Arabia;2;1;Egypt;Saudi Arabia;Regular game time
+2018;2018-06-25;18:00;Group A;Samara Arena;Samara;Russia;Uruguay;3;0;Russia;Uruguay;Regular game time
+2018;2018-06-25;20:00;Group B;Kaliningrad Stadium;Kaliningrad;Russia;Spain;2;2;Morocco;Draw;Regular game time
+2018;2018-06-25;21:00;Group B;Mordovia Arena;Saransk;Russia;Iran;1;1;Portugal;Draw;Regular game time
+2018;2018-06-26;17:00;Group C;Luzhniki Stadium;Moscow;Russia;Denmark;2;0;France;Denmark;Regular game time
+2018;2018-06-26;17:00;Group C;Fisht Olympic Stadium;Sochi;Russia;Australia;0;2;Peru;Peru;Regular game time
+2018;2018-06-26;21:00;Group D;Krestovsky Stadium;Saint Petersburg;Russia;Nigeria;1;2;Argentina;Argentina;Regular game time
+2018;2018-06-26;21:00;Group D;Rostov Arena;Rostov-on-Don;Russia;Iceland;1;2;Croatia;Croatia;Regular game time
+2018;2018-06-27;17:00;Group F;Ak Bars Arena;Kazan;Russia;Korea Republic;2;0;Germany;Korea Republic;Regular game time
+2018;2018-06-27;19:00;Group F;Ekaterinburg Arena;Yekaterinburg;Russia;Mexico;0;3;Sweden;Sweden;Regular game time
+2018;2018-06-27;21:00;Group E;Nihzny Novgorod Stadium;Nizhny Novgorod;Russia;Switzerland;2;2;Costa Rica;Draw;Regular game time
+2018;2018-06-27;21:00;Group E;Otkrytiye Arena;Moscow;Russia;Serbia;0;2;Brazil;Brazil;Regular game time
+2018;2018-06-28;17:00;Group H;Central Stadium;Yekaterinburg;Russia;Japan;0;1;Poland;Poland;Regular game time
+2018;2018-06-28;18:00;Group H;Samara Arena;Samara;Russia;Senegal;0;1;Colombia;Colombia;Regular game time
+2018;2018-06-28;20:00;Group G;Kaliningrad Stadium;Kaliningrad;Russia;England;0;1;Belgium;Belgium;Regular game time
+2018;2018-06-28;21:00;Group G;Mordovia Arena;Saransk;Russia;Panama;1;2;Tunisia;Tunisia;Regular game time
+2018;2018-06-30;17:00;Round of 16;Ak Bars Arena;Kazan;Russia;France;4;3;Argentina;France;Regular game time
+2018;2018-06-30;21:00;Round of 16;Fisht Olympic Stadium;Sochi;Russia;Uruguay;2;1;Portugal;Uruguay;Regular game time
+2018;2018-07-01;17:00;Round of 16;Luzhniki Stadium;Moscow;Russia;Spain;1;1;Russia;Russia;Penalties (4-3)
+2018;2018-07-01;21:00;Round of 16;Nihzny Novgorod Stadium;Nizhny Novgorod;Russia;Croatia;1;1;Denmark;Croatia;Penalties (3-2)
+2018;2018-07-02;18:00;Round of 16;Samara Arena;Samara;Russia;Brazil;2;0;Mexico;Brazil;Regular game time
+2018;2018-07-02;21:00;Round of 16;Rostov Arena;Rostov-on-Don;Russia;Belgium;3;2;Japan;Belgium;Regular game time
+2018;2018-07-03;17:00;Round of 16;Krestovsky Stadium;Saint Petersburg;Russia;Sweden;1;0;Switzerland;Sweden;Regular game time
+2018;2018-07-03;21:00;Round of 16;Otkrytiye Arena;Moscow;Russia;Colombia;1;1;England;England;Penalties (4-3)
+2018;2018-07-06;17:00;Quarter-finals;Nihzny Novgorod Stadium;Nizhny Novgorod;Russia;Uruguay;0;2;France;France;Regular game time
+2018;2018-07-06;21:00;Quarter-finals;Ak Bars Arena;Kazan;Russia;Brazil;1;2;Belgium;Belgium;Regular game time
+2018;2018-07-07;18:00;Quarter-finals;Samara Arena;Samara;Russia;Sweden;0;2;England;England;Regular game time
+2018;2018-07-07;21:00;Quarter-finals;Fisht Olympic Stadium;Sochi;Russia;Russia;2;2;Croatia;Croatia;Penalties (4-3)
+2018;2018-07-10;21:00;Semi-finals;Krestovsky Stadium;Saint Petersburg;Russia;France;1;0;Belgium;France;Regular game time
+2018;2018-07-11;21:00;Semi-finals;Luzhniki Stadium;Moscow;Russia;Croatia;2;1;England;Croatia;Extra Time
+2018;2018-07-14;17:00;Play-off for third place;Krestovsky Stadium;Saint Petersburg;Russia;Belgium;2;0;England;Belgium;Regular game time
+2018;2018-07-15;18:00;Final;Luzhniki Stadium;Moscow;Russia;France;4;2;Croatia;France;Regular game time
+2022;2022-11-21;19:00;Group A;Al Bayt Stadium;Al Khor City;Qatar;Qatar;0;2;Ecuador;Ecuador;Regular game time
+2022;2022-11-21;19:00;Group A;Al Thumama Stadium;Doha;Qatar;Senegal;0;2;Netherlands;Netherlands;Regular game time
+2022;2022-11-21;16:00;Group B;Khalifa International Stadium;Aspire;Qatar;England;6;2;Iran;England;Regular game time
+2022;2022-11-21;22:00;Group B;Ahmad Bin Ali Stadium;Umm Al Afaei;Qatar;USA;1;1;Wales;Draw;Regular game time
+2022;2022-11-22;22:00;Group D;Al Janoub Stadium;Al Wakrah;Qatar;France;4;1;Australia;France;Regular game time
+2022;2022-11-22;16:00;Group D;Education City Stadium;Al Rayyan;Qatar;Denmark;0;0;Tunisia;Draw;Regular game time
+2022;2022-11-22;19:00;Group C;Stadium 974;Ras Abu Aboud;Qatar;Mexico;0;0;Poland;Draw;Regular game time
+2022;2022-11-22;13:00;Group C;Lusail Stadium;Lusail City;Qatar;Argentina;1;2;Saudi Arabia;Saudi Arabia;Regular game time
+2022;2022-11-23;22:00;Group F;Ahmad Bin Ali Stadium;Umm Al Afaei;Qatar;Belgium;1;0;Canada;Belgium;Regular game time
+2022;2022-11-23;19:00;Group E;Al Thumama Stadium;Doha;Qatar;Spain;7;0;Costa Rica;Spain;Regular game time
+2022;2022-11-23;16:00;Group E;Khalifa International Stadium;Aspire;Qatar;Germany;1;2;Japan;Japan;Regular game time
+2022;2022-11-23;13:00;Group F;Al Bayt Stadium;Al Khor City;Qatar;Morocco;0;0;Croatia;Draw;Regular game time
+2022;2022-11-24;13:00;Group G;Al Janoub Stadium;Al Wakrah;Qatar;Switzerland;1;0;Cameroon;Switzerland;Regular game time
+2022;2022-11-24;16:00;Group H;Education City Stadium;Al Rayyan;Qatar;Uruguay;0;0;Korea Republic;Draw;Regular game time
+2022;2022-11-24;19:00;Group H;Stadium 974;Ras Abu Aboud;Qatar;Portugal;3;2;Ghana;Portugal;Regular game time
+2022;2022-11-24;22:00;Group G;Lusail Stadium;Lusail City;Qatar;Brazil;2;0;Serbia;Brazil;Regular game time
+2022;2022-11-25;13:00;Group B;Ahmad Bin Ali Stadium;Umm Al Afaei;Qatar;Iran;0;2;Wales;Wales;Regular game time
+2022;2022-11-25;16:00;Group A;Al Thumama Stadium;Doha;Qatar;Qatar;1;3;Senegal;Senegal;Regular game time
+2022;2022-11-25;19:00;Group A;Khalifa International Stadium;Aspire;Qatar;Netherlands;1;1;Ecuador;Draw;Regular game time
+2022;2022-11-25;22:00;Group B;Al Bayt Stadium;Al Khor City;Qatar;England;0;0;USA;Draw;Regular game time
+2022;2022-11-26;13:00;Group D;Al Janoub Stadium;Al Wakrah;Qatar;Tunisia;0;1;Australia;Australia;Regular game time
+2022;2022-11-26;16:00;Group C;Education City Stadium;Al Rayyan;Qatar;Poland;2;0;Saudi Arabia;Poland;Regular game time
+2022;2022-11-26;19:00;Group D;Stadium 974;Ras Abu Aboud;Qatar;France;2;1;Denmark;France;Regular game time
+2022;2022-11-26;22:00;Group C;Lusail Stadium;Lusail City;Qatar;Argentina;2;0;Mexico;Argentina;Regular game time
+2022;2022-11-27;13:00;Group E;Ahmad Bin Ali Stadium;Umm Al Afaei;Qatar;Japan;0;1;Costa Rica;Costa Rica;Regular game time
+2022;2022-11-27;16:00;Group F;Al Thumama Stadium;Doha;Qatar;Belgium;0;2;Morocco;Morocco;Regular game time
+2022;2022-11-27;19:00;Group F;Khalifa International Stadium;Aspire;Qatar;Croatia;4;1;Canada;Croatia;Regular game time
+2022;2022-11-27;22:00;Group E;Al Bayt Stadium;Al Khor City;Qatar;Spain;1;1;Germany;Draw;Regular game time
+2022;2022-11-28;13:00;Group G;Al Janoub Stadium;Al Wakrah;Qatar;Serbia;3;3;Cameroon;Draw;Regular game time
+2022;2022-11-28;16:00;Group H;Education City Stadium;Al Rayyan;Qatar;Korea Republic;2;3;Ghana;Ghana;Regular game time
+2022;2022-11-28;19:00;Group G;Stadium 974;Ras Abu Aboud;Qatar;Brazil;1;0;Switzerland;Brazil;Regular game time
+2022;2022-11-28;22:00;Group H;Lusail Stadium;Lusail City;Qatar;Portugal;2;0;Uruguay;Portugal;Regular game time
+2022;2022-11-29;22:00;Group B;Ahmad Bin Ali Stadium;Umm Al Afaei;Qatar;England;3;0;Wales;England;Regular game time
+2022;2022-11-29;22:00;Group B;Al Thumama Stadium;Doha;Qatar;Iran;0;1;USA;USA;Regular game time
+2022;2022-11-29;18:00;Group A;Khalifa International Stadium;Aspire;Qatar;Ecuador;1;2;Senegal;Senegal;Regular game time
+2022;2022-11-29;18:00;Group A;Al Bayt Stadium;Al Khor City;Qatar;Qatar;0;2;Netherlands;Netherlands;Regular game time
+2022;2022-11-30;18:00;Group D;Al Janoub Stadium;Al Wakrah;Qatar;Denmark;0;1;Australia;Australia;Regular game time
+2022;2022-11-30;18:00;Group D;Education City Stadium;Al Rayyan;Qatar;Tunisia;1;0;France;Tunisia;Regular game time
+2022;2022-11-30;22:00;Group C;Stadium 974;Ras Abu Aboud;Qatar;Poland;0;2;Argentina;Argentina;Regular game time
+2022;2022-11-30;22:00;Group C;Lusail Stadium;Lusail City;Qatar;Saudi Arabia;1;2;Mexico;Mexico;Regular game time
+2022;2022-12-01;18:00;Group F;Ahmad Bin Ali Stadium;Umm Al Afaei;Qatar;Croatia;0;0;Belgium;Draw;Regular game time
+2022;2022-12-01;22:00;Group F;Al Thumama Stadium;Doha;Qatar;Canada;1;2;Morocco;Morocco;Regular game time
+2022;2022-12-01;22:00;Group E;Khalifa International Stadium;Aspire;Qatar;Japan;2;1;Spain;Japan;Regular game time
+2022;2022-12-01;18:00;Group E;Al Bayt Stadium;Al Khor City;Qatar;Costa Rica;2;4;Germany;Germany;Regular game time
+2022;2022-12-02;18:00;Group H;Al Janoub Stadium;Al Wakrah;Qatar;Ghana;0;2;Uruguay;Uruguay;Regular game time
+2022;2022-12-02;18:00;Group H;Education City Stadium;Al Rayyan;Qatar;Korea Republic;2;1;Portugal;Korea Republic;Regular game time
+2022;2022-12-02;22:00;Group G;Stadium 974;Ras Abu Aboud;Qatar;Serbia;2;3;Switzerland;Switzerland;Regular game time
+2022;2022-12-02;22:00;Group G;Lusail Stadium;Lusail City;Qatar;Brazil;0;1;Cameroon;Cameroon;Regular game time
+2022;2022-12-03;18:00;Round of 16;Khalifa International Stadium;Aspire;Qatar;Netherlands;3;1;USA;Netherlands;Regular game time
+2022;2022-12-03;22:00;Round of 16;Ahmad Bin Ali Stadium;Umm Al Afaei;Qatar;Argentina;2;1;Australia;Argentina;Regular game time
+2022;2022-12-04;22:00;Round of 16;Al Bayt Stadium;Al Khor City;Qatar;England;3;0;Senegal;England;Regular game time
+2022;2022-12-04;18:00;Round of 16;Al Thumama Stadium;Doha;Qatar;France;3;1;Poland;France;Regular game time
+2022;2022-12-05;18:00;Round of 16;Al Janoub Stadium;Al Wakrah;Qatar;Japan;1;1;Croatia;Croatia;Penalties (3-1)
+2022;2022-12-05;22:00;Round of 16;Stadium 974;Ras Abu Aboud;Qatar;Brazil;4;1;Korea Republic;Brazil;Regular game time
+2022;2022-12-06;18:00;Round of 16;Education City Stadium;Al Rayyan;Qatar;Morocco;0;0;Spain;Morocco;Penalties (3-0)
+2022;2022-12-06;22:00;Round of 16;Lusail Stadium;Lusail City;Qatar;Portugal;6;1;Switzerland;Portugal;Regular game time
+2022;2022-12-09;22:00;Quarter-finals;Lusail Stadium;Lusail City;Qatar;Netherlands;2;2;Argentina;Argentina;Penalties (4-3)
+2022;2022-12-09;18:00;Quarter-finals;Education City Stadium;Al Rayyan;Qatar;Croatia;1;1;Brazil;Croatia;Penalties (4-2)
+2022;2022-12-10;22:00;Quarter-finals;Al Bayt Stadium;Al Khor City;Qatar;England;1;2;France;France;Regular game time
+2022;2022-12-10;18:00;Quarter-finals;Al Thumama Stadium;Doha;Qatar;Morocco;1;0;Portugal;Morocco;Regular game time
+2022;2022-12-13;22:00;Semi-finals;Lusail Stadium;Lusail City;Qatar;Argentina;3;0;Croatia;Argentina;Regular game time
+2022;2022-12-14;22:00;Semi-finals;Al Bayt Stadium;Al Khor City;Qatar;France;2;0;Morocco;France;Regular game time
+2022;2022-12-17;18:00;Play-off for third place;Khalifa International Stadium;Aspire;Qatar;Croatia;2;1;Morocco;Croatia;Regular game time
+2022;2022-12-18;18:00;Final;Lusail Stadium;Lusail City;Qatar;Argentina;3;3;France;Argentina;Penalties (4-2)
