@@ -18,7 +18,6 @@
 ```
  zawierał kolumny: `Year`, `Date Time`, `Round`, `Stadium`, `City`, `Country`, `HomeTeam`, `HomeGoals`, `AwayGoals`, `AwayTeam`, `Winner`, `HowEnd`
 
----
 
 ####
 
