@@ -23,7 +23,7 @@
 
 &emsp;Drugim zbiorem danych był plik csv zawierający państwa oraz kontynenty, w których te kraje się znajdują. Sformatowałem komórki oraz dodałem państwa, które już nie istnieją (np. Jugosławia) a w swojej historii brały udział w mistrzostwach świata. Zbiór danych:
 ```bash
-  cotntinents.csv
+  Allcotntinents.csv
 ```
   zawierał ostatecznie kolumny: `Continent`, `Country`
 
